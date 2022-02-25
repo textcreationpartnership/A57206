@@ -1,0 +1,2168 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mellificium musarum: the marrovv of the muses. Or, An epitome of divine poetrie Distilled into pious ejaculations, and solemne soliloquies. By Jeremiah Rich. Junii 19. 1650. Imprimatur, Joseph Caryl.</title>
+            <author>Rich, Jeremiah, d. 1660?</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 126 KB of XML-encoded text transcribed from 55 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57206</idno>
+            <idno type="STC">Wing R1344</idno>
+            <idno type="STC">ESTC R217989</idno>
+            <idno type="EEBO-CITATION">99829618</idno>
+            <idno type="PROQUEST">99829618</idno>
+            <idno type="VID">34059</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57206)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34059)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1999:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mellificium musarum: the marrovv of the muses. Or, An epitome of divine poetrie Distilled into pious ejaculations, and solemne soliloquies. By Jeremiah Rich. Junii 19. 1650. Imprimatur, Joseph Caryl.</title>
+                  <author>Rich, Jeremiah, d. 1660?</author>
+               </titleStmt>
+               <extent>[16], 88 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by T.H. for John Stephenson, and are to be sold at his shop on Ludgate hill, at the sign of the Sun,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title page printed in red and black.</note>
+                  <note>The words "Pious .. Soliloquies." are joined by a left brace on title page.</note>
+                  <note>A selection of poems by various authors, collected by Jeremiah Rich.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English poetry --  Early modern, 1500-1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34059:1" rendition="simple:additions"/>
+            <pb facs="tcp:34059:1" rendition="simple:additions"/>
+            <p>
+               <hi>Mellificium Muſarum:</hi> THE MARROVV OF THE MUSES.</p>
+            <p>OR, AN EPITOME OF DIVINE POETRIE.</p>
+            <p>Diſtilled into Pious Ejaculations, and Solemne Soliloquies.</p>
+            <p>By JEREMIAH RICH.</p>
+            <p>
+               <hi>Junii</hi> 19. 1650.</p>
+            <floatingText type="license" xml:lang="eng" subtype="imprimatur">
+               <body>
+                  <p>
+                     <hi>Imprimatur,</hi>
+                  </p>
+                  <closer>
+                     <signed>JOSEPH CARYL.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>LONDON,</hi> Printed by T. H. for JOHN STEPHENSON, and are to be ſold at his ſhop on Ludgate hill, at the ſign of the Sun, 1650.</p>
+         </div>
+         <div type="illustration">
+            <pb facs="tcp:34059:2" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <figDesc>modern bookplate</figDesc>
+                  <head>GEO. CHALMERS ESQ. F.R.S.S.A.</head>
+                  <q>SPERO</q>
+               </figure>
+            </p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:34059:2"/>
+            <pb facs="tcp:34059:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:34059:3" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:34059:4"/>
+            <pb facs="tcp:34059:4"/>
+            <head>To the Honourable, and moſt Excellently well accompliſht, the great Patron of Piety, Example of Valour, and chiefe Aſylum of Learning and Ingenuity; NATHANIEL RICH, Eſq. Governour of Deale, Sandowne, and Walmer Caſtles, Major Generall of the South-Eaſterne Parts of ENGLAND, and a Member of the Right Honourable the Houſe of Parliament, my Noble Colonell, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe Poems, being on their ma<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch, have rankt them<g ref="char:EOLhyphen"/>ſelves under the Conduct of Your Honours Patronage, which is able to ſcreene them from the Irradiation of Envy,
+<pb facs="tcp:34059:5"/>or the malevolent effects of folly. My firſt Workes devoted to the Noble Counteſſe of <hi>Warwick,</hi> had the happineſſe to kiſſe your hand, which happineſſe gives me a new bold<g ref="char:EOLhyphen"/>neſſe to preſent this Epitome of divine Poetry, to your gracious protection, that flying through the World under the ſhadow of your Honors wings, many may read it o're, having the glory to be dreſt in your Honours Livery.</p>
+            <p>I could produce prolixer Arguments to make an Apology for the Poem: indeed I cannot ſurrender the account of my ſtudy more proper<g ref="char:EOLhyphen"/>ly to any then to your Honour, to whoſe Com<g ref="char:EOLhyphen"/>mand all my actuall employments are dayly de<g ref="char:EOLhyphen"/>voted: let this one Reaſon ſilence, and ſuper<g ref="char:EOLhyphen"/>cede the plurality of a longer Prologue. It is requiſite I ſhould ſometimes waite on your Ho<g ref="char:EOLhyphen"/>nour with my Pen, as well as alwaies with my Sword.</p>
+            <p>As for the Offring it is too meane for ſo magnificent a favour, your acceptance.</p>
+            <p>Yet the mightieſt Monarchs, amidſt their higheſt triumphs have been ſometimes pleaſed with trifles, and the ſtatelieſt Cedars ſhade
+<pb facs="tcp:34059:5"/>the ſhorteſt ſhrubs.</p>
+            <p>But your affable and indulgent Cander being beyond compare, I ſhall with that great Artiſt <hi>Timanthus,</hi> ſhadow thoſe lineaments my imbecility cannot draw</p>
+            <p>Your Honours goodneſſe is far above your greatneſſe the knowledge of which, forced mee in all humility to tender my winged <hi>Pegaſus</hi> at your Honours feet, and reſt,</p>
+            <closer>
+               <signed>
+                  <hi>Your Honours moſt humble and faithfull Souldier and Servant, to Command.</hi> Jeremiah Rich.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:34059:6"/>
+            <pb facs="tcp:34059:6"/>
+            <head>To the Reader.</head>
+            <p>
+               <seg rend="decorInit">M</seg>E thinkes 'tis long to morne, ſure <hi>Phoebus</hi> ſhould have braved the Aire an houre ago: It cannot be much longer ſure ere darkeneſſe bee downe, and the ſable cloud bee puft away, that once was ſet round to raine: Oh that the Curtaines of Hea<g ref="char:EOLhyphen"/>ven were drawne, that the Day-ſtar would uſher <hi>Sol</hi> from his bluſhing bed of Roſes, that glorious <hi>Aurora</hi> would open his golden Gates, and let in the winged Chariot of the Day.</p>
+            <p>Sure it cannot bee long: ſay Reader, art thou ready? I have beate up a Travallee heere, that you may ſtand to your Guard againſt you bee re<g ref="char:EOLhyphen"/>lieved; and like the earely Bell man, I have given you a midnight Verſe, that your wakefull eyes may welcome in the Morne: Peruſe it gentle Rea<g ref="char:EOLhyphen"/>der, not as men weare powder on their heads, but as the Women that weare their buskes in their boſomes; uſe it not as a Glaſſe to make your
+<pb facs="tcp:34059:7"/>ſelves trim, but as a watch to ſee the ſhortneſſe of time: heere be eight things (in this ſhort Ma<g ref="char:EOLhyphen"/>nuell) that offer themſelves to thy view, namely theſe; the evill of envy, the fulneſſe of folly, the continuance of labour, the inconſtancy of love, the proſperity of the wicked; yet the poverty of the world, the vileneſſe of ſome things, and the vani<g ref="char:EOLhyphen"/>ty of all things: Peruſe it not as ſome doe the Rhimes of <hi>Homer,</hi> which turn to the end ere they know the beginning, and paſſe by the leafe before they underſtand a line: Art thou hurryed to hor<g ref="char:EOLhyphen"/>rour? It may bee I have writ that heere that may barricado up the way; peradventure thou art al<g ref="char:EOLhyphen"/>moſt loſt, and ſomething heere may whiſper thee the way to Heaven, and love may beare thee on his unſeen winges, and lift thee to <hi>Elyſium;</hi> per<g ref="char:EOLhyphen"/>haps it is the laſt of my labours, read it before thou rend it, and if the lines deſerve any love, though the Stationer has the profit, let mee have thy prayers, take thy ſelfe the utility, and let Heaven have the glory.</p>
+            <closer>
+               <signed>Thine, JEREMIAH RICH.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:34059:7"/>
+            <head>Ad amicum chariſſimum Do<g ref="char:EOLhyphen"/>minum RICH, in elucubratiſſi<g ref="char:EOLhyphen"/>ma Poemata.</head>
+            <lg>
+               <l>
+                  <hi>Q<g ref="char:V">Ʋ</g>is novus hic noſtris hoſpes acceſſerit aris?</hi>
+               </l>
+               <l>
+                  <hi>Aeonidum &amp; tactas mente veavit aquat</hi>
+               </l>
+               <l>
+                  <hi>Miramur Calamum</hi> Richi <hi>chariſſime, dives</hi>
+               </l>
+               <l>
+                  <hi>Nomine, at ingenio ditior ipſe tuo.</hi>
+               </l>
+               <l>
+                  <hi>Cuncta prophanorum ſileant hinc Carmina vatum,</hi>
+               </l>
+               <l>
+                  <hi>Exemplo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> tuo metra ſacrata canent.</hi>
+               </l>
+               <l>
+                  <hi>Delphica qui ſacro pandis laquea iaſocco</hi>
+               </l>
+               <l>
+                  <hi>Grandiloquo<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> feris Sydera ſumma ſtila.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>E. P.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:34059:8"/>
+            <head>To his Friend the Authour.</head>
+            <epigraph>
+               <q>Tam Marte, quam Mercurio.</q>
+            </epigraph>
+            <lg>
+               <l>TIs ſtrange, yet true, that in a twinning breaſt</l>
+               <l>The <hi>God</hi> of <hi>War</hi> and <hi>Eloquence</hi> ſhould reſt.</l>
+               <l>Heere <hi>Ajax</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>liſſes</hi> ſtrive againe,</l>
+               <l>As once for Arm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, ſo now for heart and brain.</l>
+               <l>For he's no <hi>Souldier</hi> that can downe right hit,</l>
+               <l>Only by ſtrength, and not take aime by wit.</l>
+               <l>Nor is that <hi>Oratory</hi> which does ſteep</l>
+               <l>The <hi>tongue</hi> alone, and leave the <hi>heart</hi> aſleep.</l>
+               <l>Let the old Stagerite or Galen tell,</l>
+               <l>In which the principality doth dwell:</l>
+               <l>Both excellent, and both maintaine their part,</l>
+               <l>The <hi>brain</hi> pumps forth that which was ſprung in <hi>heart.</hi>
+               </l>
+               <l>I know not which rules thee: but to us, far</l>
+               <l>Nobler then <hi>Mercury</hi> is the <hi>god</hi> of <hi>war:</hi>
+               </l>
+               <l>Yet while his <hi>Oaten Pipe,</hi> or <hi>Phoebus Lire</hi>
+               </l>
+               <l>Sound with the <hi>Trump,</hi> we ſeem to cool in fire.</l>
+            </lg>
+            <closer>
+               <signed>D. L. C.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:34059:8"/>
+            <head>To his ingenious Friend Mr. <hi>Jer. Rich,</hi> on his excellent Poems.</head>
+            <lg>
+               <l>VVHat Gueſt approacheth our Altars here, to bring</l>
+               <l>A Verſe to bleſſe the Helliconian ſpring:</l>
+               <l>We all (dear <hi>Rich</hi>) admire thy quill; now Fame</l>
+               <l>Shall with her loudeſt blaſt proclaim thy Name</l>
+               <l>Unto the World, that Ingenuity</l>
+               <l>May ſpeake, if there be one ſo <hi>Rich</hi> as thee.</l>
+               <l>Let Poets Rhime no more, but in thy praiſe,</l>
+               <l>And ſing by thy example holy Layes:</l>
+               <l>While thou with ſweeteſt Rhetorick charm'ſt our eares,</l>
+               <l>We dream we hear the muſique of the Sphears.</l>
+            </lg>
+            <closer>
+               <signed>J. Steevens:</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:34059:9"/>
+            <head>To my Worthy Friend, Mr. <hi>IEREMIAH RICH,</hi> on his Poem.</head>
+            <lg>
+               <l>VVHat ſtrange Poetick fury does inſpire</l>
+               <l>Thy towring fancy with ſuch Promethea<g ref="char:cmbAbbrStroke">̄</g> fire</l>
+               <l>Able to illuminate the world, and conſtrain</l>
+               <l>The Muſes to doe homage to thy braine?</l>
+               <l>Admired <hi>Rich,</hi> ſince every Verſe of thine</l>
+               <l>Centers in Heaven, and growes thence divine.</l>
+            </lg>
+            <closer>
+               <signed>L. F.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:34059:9"/>
+            <head>Ad Amicum Chariſsimum Dom. RICH, in Mellificium Muſarum.</head>
+            <lg>
+               <l>
+                  <hi>Q<g ref="char:V">Ʋ</g>is furor Aetheriis accendit Corda favillis?</hi>
+               </l>
+               <l>
+                  <hi>Quis novus arrepſit per tua Metra Calor?</hi>
+               </l>
+               <l>
+                  <hi>Ecce tibi Cunctis Muſarum turba Camaenis,</hi>
+               </l>
+               <l>
+                  <hi>Aſſurgunt famulis officioſa Choris.</hi>
+               </l>
+               <l>
+                  <hi>Sed mage</hi> Melpomene <hi>dominatrix Carminae geſtit,</hi>
+               </l>
+               <l>
+                  <hi>Singultu miſcens gaudia vana pio,</hi>
+               </l>
+               <l>
+                  <hi>Peccati quae monſtra domat, dum murmure maſto,</hi>
+               </l>
+               <l>
+                  <hi>Emollit mentem lacrimulaſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ciet.</hi>
+               </l>
+               <l>
+                  <hi>Quam bene</hi> Davidicis <hi>calefiunt Pectora ulnis!</hi>
+               </l>
+               <l>
+                  <hi>Et reſonant magnum Carmina celſa Polum!</hi>
+               </l>
+               <l>
+                  <hi>Dum geminos t<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Riche <hi>refers virtutibus axes,</hi>
+               </l>
+               <l>
+                  <hi>Et Caelum ſpirant, &amp; tua corda ſolum:</hi>
+               </l>
+               <l>
+                  <hi>Nempe ſimul Terrae mulces ſermonibus aures,</hi>
+               </l>
+               <l>
+                  <hi>Et ſaltat Cytherae Caelica turba tua.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>L. M.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:34059:10"/>
+            <head>To his deare Friend <hi>Ier. Rich,</hi> on his <hi>Mellificium Muſarum.</hi>
+            </head>
+            <lg>
+               <l>NEſtor was aged when he undertooke</l>
+               <l>The Trojan Wars, thou yong and writ this Book;</l>
+               <l>His age both wit and eloquence required,</l>
+               <l>Thou yong in yeares, yet haſt to that aſpired:</l>
+               <l>Tis ſtrange, ſure all the Muſes do agree</l>
+               <l>In one, in ſpite of fate to honour thee.</l>
+               <l>Oh, that our Iron age could be refin'd</l>
+               <l>To pureſt gold, that thou reward mightſt find</l>
+               <l>To thy deſert; but worth ſhall make thy Name</l>
+               <l>Ride through the world upon the wings of Fame.</l>
+            </lg>
+            <closer>
+               <signed>JOHN AVIS.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:34059:10"/>
+            <head>The Entertainment.</head>
+            <lg>
+               <l>VVAs it a Dreame? or is the world bereaven</l>
+               <l>Of all her glory? what has the lamps of heaven</l>
+               <l>Left mortalls in a maze? and are the skies</l>
+               <l>Orecaſt? will Phoebus blind our darkned eyes?</l>
+               <l>Are Mars and Juno come to play their parts</l>
+               <l>Againe on earth, and ſhoot their fiery darts?</l>
+               <l>The worlds great fabrick ſure will fall in ſunder,</l>
+               <l>Being rockt ſo often with great cracks of thunder</l>
+               <l>In dreadfull war: Riſe Phoeb, and come away,</l>
+               <l>Why haſt thou robd us of ſo fayre a day?</l>
+            </lg>
+            <lg>
+               <l>Our Tapours burne but dim, our muſick's ſhrill,</l>
+               <l>The Poet heere may blunt his idle quill</l>
+               <l>In writing Tragedies, time changed our ſtage</l>
+               <l>And turned our golden to an Iron age.</l>
+            </lg>
+            <lg>
+               <l>O Lord of glory, beare my dulled Muſe</l>
+               <l>Through this ſad Poem, and doe thou infuſe</l>
+               <l>Love in my Lines, and pleaſure in my paine,</l>
+               <l>That all my labour may not be in vaine.</l>
+            </lg>
+            <pb facs="tcp:34059:11"/>
+            <lg>
+               <l>Guide me as thou didſt Davids hand, when he</l>
+               <l>Writ to the world his divine Poetry.</l>
+               <l>Lift me on Eagles wings that I may flie</l>
+               <l>Aloft, and conquer death before I die.</l>
+               <l>Turne Poetry to piety; crowne this ſtory</l>
+               <l>With grace, and crown my grace with endleſſe glory,</l>
+               <l>Where everlaſting joy did dwell before</l>
+               <l>All ages, and ſhall be when time ſhalbe no more.</l>
+            </lg>
+            <closer>
+               <signed>J. RICH.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:34059:11"/>
+            <div type="poem">
+               <head>
+                  <hi>The evill of Envy.</hi> In the Example of <hi>Caine</hi> and <hi>Abell, Geneſis</hi> 4.8.</head>
+               <lg>
+                  <head>I.</head>
+                  <l>
+                     <hi>GOe palt fac'd wrinkled envy, flye away,</hi>
+                  </l>
+                  <l>
+                     <hi>thou cam'ſt too ſoone:</hi>
+                  </l>
+                  <l>
+                     <hi>Goe take thy horrid darkneſſe and diſplay</hi>
+                  </l>
+                  <l>
+                     <hi>about the Moone;</hi>
+                  </l>
+                  <l>
+                     <hi>Let not thy ſhadows dimme our dawning day,</hi>
+                  </l>
+                  <l>
+                     <hi>or faireſt Noone;</hi>
+                  </l>
+                  <l>
+                     <hi>Becauſe thy tempted Father fell,</hi>
+                  </l>
+                  <l>
+                     <hi>What didſt thou well,</hi>
+                  </l>
+                  <l>
+                     <hi>To eclipſe ſo faire a morne: but born and then rebell?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>II.</head>
+                  <l>
+                     <hi>How ſoone this bloody Tragedy began</hi>
+                  </l>
+                  <l>
+                     <hi>upon our ſtage,</hi>
+                  </l>
+                  <l>
+                     <hi>The day growes darke before the morning Sun</hi>
+                  </l>
+                  <l>
+                     <hi>ha's three houres age:</hi>
+                  </l>
+                  <pb n="2" facs="tcp:34059:12"/>
+                  <l>
+                     <hi>O curſed</hi> Caine, <hi>what has thy treachery done</hi>
+                  </l>
+                  <l>
+                     <hi>thy boyling rage,</hi>
+                  </l>
+                  <l>
+                     <hi>Becauſe thy ſacrifice of ſinne did ſmell:</hi>
+                  </l>
+                  <l>
+                     <hi>what? didſt thou well,</hi>
+                  </l>
+                  <l>
+                     <hi>To kill thy brother too: but born and then rebell?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>III.</head>
+                  <l>
+                     <hi>The night growes horribls, both Sun and Moone</hi>
+                  </l>
+                  <l>
+                     <hi>are ſhadowed o're,</hi>
+                  </l>
+                  <l>
+                     <hi>The boyſtrous whirlewinde now even at high noone</hi>
+                  </l>
+                  <l>
+                     <hi>begins to roare:</hi>
+                  </l>
+                  <l>
+                     <hi>Now ſin hath plaid her part, ah me! how ſoone</hi>
+                  </l>
+                  <l>
+                     <hi>death's at the doore,</hi>
+                  </l>
+                  <l>
+                     <hi>Becauſe thou loſt thy ſacrifice, Oh tell!</hi>
+                  </l>
+                  <l>
+                     <hi>what? didſt thou well,</hi>
+                  </l>
+                  <l>
+                     <hi>To loſe high glory too: but born and then rebell?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>IV.</head>
+                  <l>
+                     <hi>What glory didſt thou gaine to be ſo ſly</hi>
+                  </l>
+                  <l>
+                     <hi>in that foule deed?</hi>
+                  </l>
+                  <l>
+                     <hi>Cauſt thou not live unleſſe thy Brother dye?</hi>
+                  </l>
+                  <l>
+                     <hi>or muſt he bleed</hi>
+                  </l>
+                  <l>
+                     <hi>Becauſe thou art not bleſt? harke! vengeante cries</hi>
+                  </l>
+                  <l>
+                     <hi>againſt thy ſeed:</hi>
+                  </l>
+                  <l>
+                     <hi>Thy eares were ſhut when humble</hi> Abell <hi>fell:</hi>
+                  </l>
+                  <l>
+                     <hi>but didſt thou well,</hi>
+                  </l>
+                  <pb n="3" facs="tcp:34059:12"/>
+                  <l>
+                     <hi>To ſhut up Heaven to: but born and then rebell?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>V.</head>
+                  <l>
+                     <hi>Thus blinded worldings are you all befool'd</hi>
+                  </l>
+                  <l>
+                     <hi>in your falſe aime,</hi>
+                  </l>
+                  <l>
+                     <hi>To thinke the fire of envy may be cool'd</hi>
+                  </l>
+                  <l>
+                     <hi>in furies flame:</hi>
+                  </l>
+                  <l>
+                     <hi>What honour can you boaſt of, if you ſhould</hi>
+                  </l>
+                  <l>
+                     <hi>win endleſſe Fame?</hi>
+                  </l>
+                  <l>
+                     <hi>This flattring blaſt may blow thee into Hell:</hi>
+                  </l>
+                  <l>
+                     <hi>ah! doſt thou well,</hi>
+                  </l>
+                  <l>
+                     <hi>To ſell thy heaven for hate: but born and then rebell?</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="1" type="soliloquy">
+               <head>The firſt SOLILOQUIE.</head>
+               <p>IF love bee the Schoole of Arts, the Modell of Vertue, the Glory of Learning, the Pallace of Pleaſure, the Whetſtone of Memory, the Caſtle of Delight, the Mappe of Honour, the Wonder of the World, the Myſtery of Mortallity, and the Type of Eternity: Then ſurely Envy muſt needs bee the Child of Ignorance, the perſon of idle<g ref="char:EOLhyphen"/>neſſe, the follower of fooliſhneſſe, the bringer of ſadneſſe; it is a pit of poyſon, a cup of corrupti<g ref="char:EOLhyphen"/>on, a part of diviſion, a piece of deluſion, a hell of
+<pb n="4" facs="tcp:34059:13"/>horrour, a ſinke of ſinne, a ſea of ſhame, a line of abſurdity, and a blot of deformity: It is attended with contention, with diſtraction, with deluſion, with peeviſhneſſe, with paleneſſe, with falſeneſſe, with faintneſſe, with in<g ref="char:EOLhyphen"/>conſtancy, with infidelity; it ſhuts mans glory up in darkeneſſe, and makes his memory dye in forgetfulneſſe; it doth eclipſe the cleareſt morne, and writes deformity upon the faireſt brow: He that is a Childe of envy is a burthen to the earth, and an offence to heaven; hee lives unregarded, and dyes unlamented; hee is borne to extremity, and baniſht out of glory.</p>
+               <div type="poem">
+                  <epigraph>
+                     <q>What my ſon! and what, the ſon of my wombe! and what, the ſon of my vowes! Give not thy ſtrength unto women, nor thy wayes to that which deſtroyeth Kings. <bibl>
+                           <hi>Prov,</hi> 31.2.3.</bibl>
+                     </q>
+                  </epigraph>
+                  <lg>
+                     <head>I.</head>
+                     <l>
+                        <hi>DRaw neare, brave Lovers, you that uſe to light</hi>
+                     </l>
+                     <l>
+                        <hi>your blazing Torch in Cupids flame,</hi>
+                     </l>
+                     <l>
+                        <hi>That for a wanton Miſtris dare to ſight</hi>
+                     </l>
+                     <l>
+                        <hi>in face of death, to purchaſe Fame.</hi>
+                     </l>
+                     <l>
+                        <hi>And thou that ſweeteſt Rhetorick canſt indite,</hi>
+                     </l>
+                     <l>
+                        <hi>To make a timerous Virgin tame;</hi>
+                     </l>
+                     <pb n="5" facs="tcp:34059:13"/>
+                     <l>
+                        <hi>Come hither if you pleaſe</hi>
+                     </l>
+                     <l>
+                        <hi>To purchaſe eaſe,</hi>
+                     </l>
+                     <l>
+                        <hi>View but Loves vanity, twill cure your diſeaſe.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>II.</head>
+                     <l>
+                        <hi>Were ſhe more fairer then the bluſhing morne,</hi>
+                     </l>
+                     <l>
+                        <hi>Sweet as the Arabian ſpice:</hi>
+                     </l>
+                     <l>
+                        <hi>N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>y were ſhe Vertuous too, and nobly borne,</hi>
+                     </l>
+                     <l>
+                        <hi>and pure as high Paradice:</hi>
+                     </l>
+                     <l>
+                        <hi>Theſe rarities will leave thee ſoone forlorne,</hi>
+                     </l>
+                     <l>
+                        <hi>and Love well vaniſh in a trice:</hi>
+                     </l>
+                     <l>
+                        <hi>But Gallants if you pleaſe</hi>
+                     </l>
+                     <l>
+                        <hi>To purchaſe eaſe,</hi>
+                     </l>
+                     <l>
+                        <hi>View but Loves vanity, twill cure loves diſeaſe.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>III.</head>
+                     <l>
+                        <hi>See how victorious</hi> Sampſon <hi>conquered lies,</hi>
+                     </l>
+                     <l>
+                        <hi>rock'd in his Loves deluding armes;</hi>
+                     </l>
+                     <l>
+                        <hi>How gallantly ſhe ſings him lullabies,</hi>
+                     </l>
+                     <l>
+                        <hi>and drownes his thoughts in Loves dull Charms!</hi>
+                     </l>
+                     <l>
+                        <hi>Poore ſoule he knows not what conſpiracies</hi>
+                     </l>
+                     <l>
+                        <hi>his Foes did hold 'gainſt him in ſwarms:</hi>
+                     </l>
+                     <l>
+                        <hi>Ah! had he but addreſt</hi>
+                     </l>
+                     <l>
+                        <hi>Him to the breſt</hi>
+                     </l>
+                     <l>
+                        <hi>Of heaven, he might have ſlept in glorious reſt.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>IV.</head>
+                     <l>
+                        <hi>Where is thy ſtrength and daring valour now?</hi>
+                     </l>
+                     <pb n="6" facs="tcp:34059:14"/>
+                     <l>
+                        <hi>Thy skill and rare agillity?</hi>
+                     </l>
+                     <l>
+                        <hi>Thy warlike arme that made whole Armies bow?</hi>
+                     </l>
+                     <l>
+                        <hi>what? rock'd upon a Ladies knee?</hi>
+                     </l>
+                     <l>
+                        <hi>Wake ſluggard, wake; or haſt thou paſt a vow,</hi>
+                     </l>
+                     <l>
+                        <hi>to live in infidelity?</hi>
+                     </l>
+                     <l>
+                        <hi>Ah foole! go be poſſeſt</hi>
+                     </l>
+                     <l>
+                        <hi>In</hi> Abrahams <hi>breſt:</hi>
+                     </l>
+                     <l>
+                        <hi>So mayſt thou reſt indeed in loves eternall reſt.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>V.</head>
+                     <l>
+                        <hi>There mayſt thou flumber in eternall Joyes,</hi>
+                     </l>
+                     <l>
+                        <hi>whoſe rarity ſo far excells</hi>
+                     </l>
+                     <l>
+                        <hi>Baſe earth: that all her treaſures are but toyes,</hi>
+                     </l>
+                     <l>
+                        <hi>whoſe Alter ſmokes with fuming ſmells:</hi>
+                     </l>
+                     <l>
+                        <hi>There are no plots, no murthers, no annoyes,</hi>
+                     </l>
+                     <l>
+                        <hi>but there the higheſt glory dwells:</hi>
+                     </l>
+                     <l>
+                        <hi>If love thou needſt wilt try,</hi>
+                     </l>
+                     <l>
+                        <hi>Goe, goe, and lye</hi>
+                     </l>
+                     <l>
+                        <hi>In thy ſweet Saviours armes, raviſh a while and die.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>VI.</head>
+                     <l>
+                        <hi>There is the moſt reſplendent pureſt love:</hi>
+                     </l>
+                     <l>
+                        <hi>alas what conſtant love is here?</hi>
+                     </l>
+                     <l>
+                        <hi>The amorous ſweet embraces dwell above,</hi>
+                     </l>
+                     <l>
+                        <hi>in</hi> Titans <hi>golden Hemiſphere,</hi>
+                     </l>
+                     <l>
+                        <hi>Which time, nor fortunes wheele, can ne're remove,</hi>
+                     </l>
+                     <pb n="7" facs="tcp:34059:14"/>
+                     <l>
+                        <hi>Thou art his Darling, he thy Deare:</hi>
+                     </l>
+                     <l>
+                        <hi>If love thou needs wilt try,</hi>
+                     </l>
+                     <l>
+                        <hi>Goe, goe, and lye</hi>
+                     </l>
+                     <l>
+                        <hi>In thy ſweet Saviours armes, raviſh a while and die.</hi>
+                     </l>
+                  </lg>
+               </div>
+            </div>
+            <div n="2" type="soliloquy">
+               <head>The ſecond SOLILOQUIE.</head>
+               <p>VNconſtancy of Earth are all extreame in love, oreſcorcht in Envy, or led by Folly, or invel<g ref="char:EOLhyphen"/>loped in Vanity, are drowned in ſenſuality; the ſtrong man boaſts of his ſtrength, the Souldier of his valour, the Schollar of his learning, the Ger<g ref="char:EOLhyphen"/>mane gloryes that hee can drinke Wine, the Uſu<g ref="char:EOLhyphen"/>rer ſacrifices to the god of gold, the Prodigall to his pleaſure, and the Lover to his Lady, and of all the reſt the laſt is the moſt deluded, making his life laborious while hee is tyred with ſuch unacquain<g ref="char:EOLhyphen"/>ted paſſions: Her frownes or ſmiles give him an earneſt of life or death; hee ſpends his yeares in diſquietneſſe, his moneths in frowardneſſe, the day in fancies, the night in dreames; hee tyres his paſſion, corrupts his invention, deludes his affecti<g ref="char:EOLhyphen"/>on, diſturbes his reſt, cracks his braine, wearies his bed, and breaken his ſleepe, hee makes earth his heaven, pleaſure his paradiſe, beauty his felicity, and proſperity his glory: Poore ſoule hee knows
+<pb n="8" facs="tcp:34059:15"/>not that bravery is a vanity, that beauty is a viſion, and love a deluſion; that as Syrens can inchant, ſo Ladies can allure; that extremity attends pro<g ref="char:EOLhyphen"/>digallity, and the greateſt temptations the ſtrong<g ref="char:EOLhyphen"/>eſt affections, that the comlieſt bloſſome is the ſoo<g ref="char:EOLhyphen"/>neſt blaſted, and the ſweeteſt Roſe the quicklieſt withered: That poyſon lyeth by the ſweeteſt herbe, and death is mingled in the faireſt bait.</p>
+               <p>The deluded Lover ſtands in his owne light, he puts out his owne eyes, hee ſtoppes his owne eares, hee is cloathed in darkeneſſe, hee wanders in blind<g ref="char:EOLhyphen"/>neſſe, lives in laſciviouſnes, and dyes in forgetfull<g ref="char:EOLhyphen"/>neſſe, while theſe poore rarities fanne him with ſilken wings of mildeſt ayre breathed from a whiſpering winde.</p>
+               <p>Looke back fond Lover, thou ſure haſt dreamed, all paſt is but deluſion, thy ſordid affections de<g ref="char:EOLhyphen"/>ſerve not the name of love, 'tis but a morrall blaze, a piece of humane glory, a glaunce of beau<g ref="char:EOLhyphen"/>ties bravery, a ſparke of Cupids candle, a flame of Vuicans forge, a flaſh of Natures fire, hot in a minute, and cold in a moment.</p>
+               <p>But Oh Divine Love! how much art thou abuſed? How ſtrongly neglected, who art chiefely to bee beloved?</p>
+               <p>Thou indeed art a bed of Roſes, a mountaine of Spices, a Garden of ſweetneſſe, a Type of bleſſedneſſe, a Meſſenger of fullneſſe, a Mirrour
+<pb n="9" facs="tcp:34059:15"/>of faithfullneſſe; with thee there is no reſpect of perſons, nor no regard of places, thou mindeſt not vanity, nor art deceived by folly: Thou ſtri<g ref="char:EOLhyphen"/>veſt not for honour, thou lookeſt not after gaine, thou thirſteſt not for revenge, but hopeſt all things, believeth all things, indureth all things: Thou filleſt the ſoule with vertue, with vallour, humility, fidelity, love, peace, joy, patience, and perſeverance; thou art hee that preſerveth earth, that guideth the Heavens; and leſt the Univerſe ſhould returne to its firſt Chaos, thou ruleſt the unruly Elements, thou turneſt the ſpheres, and commandeſt the wandring Planets in their ſeveral Orbes: And when thou ſmileſt upon the ſoule, thou makeſt earth reſemble heaven, deformity be<g ref="char:EOLhyphen"/>come purity, and duſt immortallity; how faire and how lovely art thou, oh Love, for delights?</p>
+               <div type="section">
+                  <epigraph>
+                     <q>
+                        <hi>ARe they Miniſters of Chriſt? I ſpeake as a fooole. I am more: in labours more abun<g ref="char:EOLhyphen"/>dant: in ſtripes above meaſure: in priſons more frequent: in deaths oft: Of the Iewes five times received I forty ſtripes ſave one. Thrice was I beaten with rods, once was I ſto<g ref="char:EOLhyphen"/>ned: thrice I ſuffered ſhipwracke: a night and a day I have beene in the deepe. In journey<g ref="char:EOLhyphen"/>ing
+<pb n="10" facs="tcp:34059:16"/>often, in perils of waters, in perils of rob<g ref="char:EOLhyphen"/>bers, in perils by mine owne countreymen, in perils by the heathen, in perils in the city, in pe<g ref="char:EOLhyphen"/>rils in the wilderneſſe, in perils in the ſea, in perils amongſt falſe brethren, in wearineſſe and painefulneſſe, in watchings often, in hunger and thirſt, infaſting often, in cold and naked<g ref="char:EOLhyphen"/>neſſe,</hi> 
+                        <bibl>2 Corinthians, chap. 11. verſ. 24.25.26.27.</bibl>
+                     </q>
+                  </epigraph>
+                  <sp>
+                     <speaker>The SOULE.</speaker>
+                     <lg>
+                        <l>
+                           <hi>ANd does the pallas of immortall glory</hi>
+                        </l>
+                        <l>
+                           <hi>Stand by deaths darkned throne? Is this ſtory</hi>
+                        </l>
+                        <l>
+                           <hi>True, that many a fiery dart</hi>
+                        </l>
+                        <l>
+                           <hi>Is ſhot to wound the tyred travellers heart;</hi>
+                        </l>
+                        <l>
+                           <hi>And yet before he comes into the armes</hi>
+                        </l>
+                        <l>
+                           <hi>Of love, muſt conquer death, and hells alarms,</hi>
+                        </l>
+                        <l>
+                           <hi>Induring many a ſtorme: oh where is he</hi>
+                        </l>
+                        <l>
+                           <hi>That ſhall arrive at immort allitie?</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>CHRIST.</speaker>
+                     <lg>
+                        <l>
+                           <hi>What's he that queſtions heaven, or his power,</hi>
+                        </l>
+                        <l>
+                           <hi>And tyes eternity to a ſhort lived houre</hi>
+                        </l>
+                        <l>
+                           <hi>By words that darken knowledge? Canſt thou tell</hi>
+                        </l>
+                        <l>
+                           <hi>His thoughts of love, ſay wortall doeſt thou well?</hi>
+                        </l>
+                        <l>
+                           <hi>Is mine arme ſhortned, or do'ſt thou feare</hi>
+                        </l>
+                        <l>
+                           <hi>Mine eare is heavy that it cannot heare?</hi>
+                        </l>
+                        <pb n="11" facs="tcp:34059:16"/>
+                        <l>
+                           <hi>Or is my truth decayed? Doe I require</hi>
+                        </l>
+                        <l>
+                           <hi>Fond man, that thou alone ſhouldſt travell through the fire,</hi>
+                        </l>
+                        <l>
+                           <hi>Except I go before, whoſe power can tame</hi>
+                        </l>
+                        <l>
+                           <hi>The ſcorching furnace, and the fiery flame:</hi>
+                        </l>
+                        <l>
+                           <hi>Have not I power to ſave, that lockt up hell,</hi>
+                        </l>
+                        <l>
+                           <hi>And conquered death? Say mortall doſt than well?</hi>
+                        </l>
+                        <l>
+                           <hi>Is man more righteous then his maker? why</hi>
+                        </l>
+                        <l>
+                           <hi>Do'ſt thou then mourne, dry up thy watry eye,</hi>
+                        </l>
+                        <l>
+                           <hi>And read thy way to heaven in this ſtory,</hi>
+                        </l>
+                        <l>
+                           <hi>Go on, i'le crowne thee with a crowne of glory.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>SOULE.</speaker>
+                     <lg>
+                        <l>
+                           <hi>But ah I am intangled in this vale of teares,</hi>
+                        </l>
+                        <l>
+                           <hi>While I ſit downe in ſorrow, numerous fearet</hi>
+                        </l>
+                        <l>
+                           <hi>Beſet me round, ſuch rubs lye in my way,</hi>
+                        </l>
+                        <l>
+                           <hi>I looke for deaths embaſſage every day,</hi>
+                        </l>
+                        <l>
+                           <hi>In which my heart is faint, my fears are full,</hi>
+                        </l>
+                        <l>
+                           <hi>My faith is feeble, and my ſenſes dull;</hi>
+                        </l>
+                        <l>
+                           <hi>And Sathan triumphs, for no power at all</hi>
+                        </l>
+                        <l>
+                           <hi>Is in fond man, ſince his rebellious fall:</hi>
+                        </l>
+                        <l>
+                           <hi>How hard a taske, how ſhort a time have wee,</hi>
+                        </l>
+                        <l>
+                           <hi>And who can wander to eternitio?</hi>
+                        </l>
+                        <l>
+                           <hi>It is enough, oh Lord, thou knowſt that I</hi>
+                        </l>
+                        <l>
+                           <hi>Am vanity; let me lie down and dye.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>CHRIST</speaker>
+                     <lg>
+                        <l>
+                           <hi>What meane theſe murm'rings that doe pierce mine cares?</hi>
+                        </l>
+                        <l>
+                           <hi>Why (faithleſſe ſonle) art thou ſo full of feares?</hi>
+                        </l>
+                        <l>
+                           <hi>Heaven is not gain'd at every idle breath</hi>
+                        </l>
+                        <l>
+                           <hi>Love attends labour, life is gain'd by death:</hi>
+                        </l>
+                        <pb n="12" facs="tcp:34059:17"/>
+                        <l>
+                           <hi>This is a debt, eternity will not paſſe:</hi>
+                        </l>
+                        <l>
+                           <hi>Thy glory (earth) is like the withering graſſe;</hi>
+                        </l>
+                        <l>
+                           <hi>Thy ſoule is too impure, till thou doſt pay</hi>
+                        </l>
+                        <l>
+                           <hi>That debt.</hi> [ſoul] <hi>how will mine eys indure this day?</hi>
+                        </l>
+                        <l>
+                           <hi>My ſoule that once was glorious ſin hath ſtain'd;</hi>
+                        </l>
+                        <l>
+                           <hi>My hands are fetter'd and my feet are chain'd.</hi>
+                        </l>
+                        <l>
+                           <hi>How black hath horror made my darkned face!</hi>
+                        </l>
+                        <l>
+                           <hi>Can Heaven love me now? can he embrace</hi>
+                        </l>
+                        <l>
+                           <hi>Me in his Royall armes? can he endure</hi>
+                        </l>
+                        <l>
+                           <hi>A ſoule that's ſo deform'd, that's ſo impure?</hi>
+                        </l>
+                        <l>
+                           <hi>It is enough, O Lord, thou knowſt that I</hi>
+                        </l>
+                        <l>
+                           <hi>Am vanity; let me lie downe and dye:</hi>
+                        </l>
+                        <l>
+                           <hi>Alas! the leaſt temptation throwes me downe.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>CHRIST.</speaker>
+                     <lg>
+                        <l>
+                           <hi>Yet (ſoule) preſs forward, thou ſhalt have a Crowne</hi>
+                        </l>
+                        <l>
+                           <hi>Of endleſſe Royalty ſet on thy head,</hi>
+                        </l>
+                        <l>
+                           <hi>In a victorious Orb.</hi> [Soule] <hi>'Tis true, the dead</hi>
+                        </l>
+                        <l>
+                           <hi>That dye in thee, are happy, they are bleſt</hi>
+                        </l>
+                        <l>
+                           <hi>Indeed: they ſlumber in eternall reſt.</hi>
+                        </l>
+                        <l>
+                           <hi>But I that have not ſtrength enough to ſtrive,</hi>
+                        </l>
+                        <l>
+                           <hi>Through my diſaſters; how ſhall</hi> I <hi>arrive</hi>
+                        </l>
+                        <l>
+                           <hi>At my deſired haven, when</hi> I <hi>read,</hi>
+                        </l>
+                        <l>
+                           <hi>'Tis ſuch a difficult way?</hi> [Chriſt] <hi>why</hi> I <hi>will lead</hi>
+                        </l>
+                        <l>
+                           <hi>Thee through the ſea of ſorrow, till the Cup</hi>
+                        </l>
+                        <l>
+                           <hi>Of wrath is paſſed ore, I'le beare thee up</hi>
+                        </l>
+                        <l>
+                           <hi>In ever laſting armes; do but endeavour</hi>
+                        </l>
+                        <l>
+                           <hi>To conquer death, and thou ſhalt live for ever:</hi>
+                        </l>
+                        <pb n="13" facs="tcp:34059:17"/>
+                        <l>
+                           <hi>As pleaſure, ſo is torment tranſitory:</hi>
+                        </l>
+                        <l>
+                           <hi>Strive, and i'le crown thee with a crown of glory.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+               </div>
+            </div>
+            <div n="3" type="soliloquy">
+               <head>The third SOLILOQUIE.</head>
+               <sp>
+                  <p>YOu trayterous thoughts, aſſault my ſence no more; oh mine eyes; whither doe you wander? to what great ſteppe of pleaſure, to what great pitch of honour, to what illuſtrate ſphere, to what coeleſtiall orbe are you hurried in a diſtracted dreame, while all your golden imaginations va<g ref="char:EOLhyphen"/>niſh into aire.</p>
+                  <p>What is the ſilver Mine? what is the golden Ore? what is the worlds dignity? what is beau<g ref="char:EOLhyphen"/>ties rarity? what is the pride of pleaſure? what is a blaſt of honour; the firſt is vexation, the ſe<g ref="char:EOLhyphen"/>cond deluſion, the third a diſtraction, the fourth brings the worldling to a fooles paradice, and hee that hath the laſt is but a glorious ſlave.</p>
+                  <p>Mee thinkes as when the Gyants warred a<g ref="char:EOLhyphen"/>gainſt heaven, and with their imperious lookes threatned the Palace of Olimpick Jove, till from his golden ſphere hee laſht their folly, and puft out their bravery, by hurling againſt their moun<g ref="char:EOLhyphen"/>taines haſty thunderbolts from his angry arme: even ſo the worlds Peacocks children of tranſ<g ref="char:EOLhyphen"/>greſſion,
+<pb n="14" facs="tcp:34059:18"/>ſonnes of Rebellion, the pride of nature, and the ſcorne of art, befooled in folly, beſotted in ſecurity, ſinne in diſpite of heaven, till with his angry breath hee ſweepes them from the world, laying their glory groveling in the ſilent grave.</p>
+                  <p>Poore heaven borne ſoule, no winde blowes faire for thee, but all thy life is a continued ill: thou art borne in a tempeſt, and art hurryed through a ſtorme, while thou wandreſt through this vale of teares, and while thou ſayleſt through this red ſea of ſorrow; ſo have I ſeene a weather<g ref="char:EOLhyphen"/>beaten veſſell torne by the fury of the ſurges, toſt from wave to wave, by the confuſed mellody of threatning ſcas, roaring windes, fiery flaſhes, hor<g ref="char:EOLhyphen"/>rid thunder, and the darkened ayre, continually in reſtleſſe motion, ſometimes by an angry billow flung up to heaven, and in a moment plunging downe againe, ſeemes to bee ſwallowed in the furious Ocean; as if nature to ſet forth the rari<g ref="char:EOLhyphen"/>ty of union, who would ſhew to man the harmo<g ref="char:EOLhyphen"/>ny of confuſed elements.</p>
+                  <p>Art thou a child of heaven? thou ſhalt bee then a ſonne of ſorrow, thinke not too much to ſuffer, if thou makeſt account to Reigne, if thou wilt have a Crowne of Royalty, be patient in ſuf<g ref="char:EOLhyphen"/>fring adverſity. The way to heaven is through a fiery Lake, thy treaſure ſhalbe torment, thy wealth ſhall be want, thy portion poverty, thy beauty
+<pb n="15" facs="tcp:34059:18"/>deformity. Thy adoption fore-runs thy extremi<g ref="char:EOLhyphen"/>ty, and thy converſion is a Prologue to a following Tragedy.</p>
+                  <p>The World indeed is full of deceit, nor will ſhe favour any but her owne, and on them ſhe confers pleaſures, and profits, honour, preferment, beauty, glory, wealth, and caſe. She ſets them on her idle knee, and charmes the Worldling to a glorious ſlumber.</p>
+                  <p>While the godly ſits all day, diſpiſed, diſgrac'd, afflicted, tormented; with his watry eyes bent on the Earth, and his ſilent groanes piercing hea<g ref="char:EOLhyphen"/>ven: the unfrequented places are his delight, and the melanchollieſt paſſions are his beſt muſique: In which the poore ſoule mutters to himſelf theſe, or the like ſpeeches.</p>
+               </sp>
+               <sp>
+                  <speaker>SOULE.</speaker>
+                  <p>Ah me! how am I hurried to and fro in the valley of this ſhaddow of death? how am I toſſed from miſery to adverſity, from trouble to torment, from temptation to affliction? my life is almoſt ſpent: and what will the Lord do with mee? if hee doe with me what he pleaſe, if he throw mee into hell, I will lay my hand upon my mouth, and be ſilent for ever: for I have been unthankfull, unholy, unfruitfull, unprofitable, diſ<g ref="char:EOLhyphen"/>courtious, diſloyall, ungratious, rebellious.</p>
+                  <p>But will the Lord be angry for ever? and hath
+<pb n="16" facs="tcp:34059:19"/>hee forgotten to bee gracious, or is his loving kindneſſe quite decayed? My Lord Jeſus Chriſt he is gone to Heaven, where he is crowned in Majeſty and glory, and every day he takes one or another after him. And heere he leaves me to feede on Wormewood, and drinke the poyſon of Aſpes. Alas, poor ſoule, what findeſt thou? what know<g ref="char:EOLhyphen"/>eſt thou? what ſeeſt thou, in this vaine world? is not her beauty momentany, and all her glory tranſitory? Why was I borne to be an object of cruelty, a Map of miſery, the mockery of Art, the ſcorne of nature? or being borne, why died I not in my ſad mothers arms?</p>
+                  <p>Well ſoule, lament no more, wait but a while and thy ſorrow ſhall be converted into joy, thy mourning into praiſing, thy emptineſſe into full<g ref="char:EOLhyphen"/>neſſe, thy low poverty into high dignity, thy ſhort ſuffering of the worlds hate to the embraces of eternall love, thy time to eternity, thy miſery into glory. Alas! the joy of the wicked is as the thornes in the fire, the bubble in the water, the flowers in the earth, the Clouds in the Aire: they blaze and conſume, they flouriſh and fade, they vaniſh and fly away: but thou for a few angry frownes ſhalt have everlaſting joyes, for earths in<g ref="char:EOLhyphen"/>dignity, ſhalt weare the Robes of Royalty, and for a moments heavineſſe, ſhalt be crowned in eternall happineſſe: Though here thou walkeſt
+<pb n="17" facs="tcp:34059:19"/>ſadly, and driveſt on heavily, piercing the aire with thy ſighes, and watering thy cheeks with thy teares; mourning and weeping for the ab<g ref="char:EOLhyphen"/>ſence of thy beloved, when he hath withdrawne himſelfe and is gone. Yet hold up thy head with joy, for thy redemption draweth neare.</p>
+                  <p>Thou ſhalt meet him in <hi>Eliſium,</hi> and arme in arme walke through the hallowed Courts, and change a thouſand kiſſes: canſt thou not tarry a little time? canſt thou not perſevere a minute? canſt thou not ſuffer a moment? canſt thou not watch one houre? would it not bee worth thy paines, if after all thy troubles on earth, to arive at heaven? there the poore Pilgrimme may reſt his tyred limbes in the ſweet lullabies of ever bleſ<g ref="char:EOLhyphen"/>ſed eternity; where there is joy without ſorrow, health without ſickneſſe, wealth without want, fulneſſe without famine, love without labour, life without death.</p>
+               </sp>
+               <div type="section">
+                  <pb n="18" facs="tcp:34059:20"/>
+                  <epigraph>
+                     <q>Ariſe my Love, my Dove, my faire one, and come away. <bibl>
+                           <hi>Canticles 2. verſ. 13.</hi>
+                        </bibl>
+                     </q>
+                  </epigraph>
+                  <sp>
+                     <speaker>The AUTHOR.</speaker>
+                     <lg>
+                        <head>I.</head>
+                        <l>
+                           <hi>GOe tired Mariner, go hoyſt up ſayle,</hi>
+                        </l>
+                        <l>
+                           <hi>The weather will no more be contrary;</hi>
+                        </l>
+                        <l>
+                           <hi>The winde blowes proſperous with a pleaſant Gale,</hi>
+                        </l>
+                        <l>
+                           <hi>The angry aire ne more will vary,</hi>
+                        </l>
+                        <l>
+                           <hi>The heavens are faire, thy journey cannot faile:</hi>
+                        </l>
+                        <l>
+                           <hi>
+                              <g ref="char:V">Ʋ</g>p weather-heaten Voyager, why doſt tarry?</hi>
+                        </l>
+                        <l>
+                           <hi>Where ſafer? O! where ſafer canſt thou be,</hi>
+                        </l>
+                        <l>
+                           <hi>Then in ſo ſweet an arme? ſoule this is he,</hi>
+                        </l>
+                        <l>
+                           <hi>Whoſe power uncurls the wav's, &amp; calms the furious ſea.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>CHRIST.</speaker>
+                     <lg>
+                        <head>II.</head>
+                        <l>
+                           <hi>Riſe Phoeb, and come away, the head-ſtrong day</hi>
+                        </l>
+                        <l>
+                           <hi>Rides in his glorious Orb, the night is gone,</hi>
+                        </l>
+                        <l>
+                           <hi>The ſlowers appeare, the little Lambes doe play,</hi>
+                        </l>
+                        <l>
+                           <hi>And glittering</hi> Sol <hi>does kiſſe the torrid zone,</hi>
+                        </l>
+                        <l>
+                           <hi>The careleſſe wandring flocks are gone aſtray,</hi>
+                        </l>
+                        <l>
+                           <hi>
+                              <g ref="char:V">Ʋ</g>pon the hills, and love is leſt alone:</hi>
+                        </l>
+                        <pb n="19" facs="tcp:34059:20"/>
+                        <l>
+                           <hi>Come lye in my ſoft boſome, where no feare</hi>
+                        </l>
+                        <l>
+                           <hi>Can break thy dreame: why doeſt thou flumber here?</hi>
+                        </l>
+                        <l>
+                           <hi>Awake my pureſt Love, ariſe my faireſt Deare.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <head>III.</head>
+                        <l>
+                           <hi>Riſe Phoeb', and come away; this Sun-ſhine morn</hi>
+                        </l>
+                        <l>
+                           <hi>We'le travell through the faireſt teritories,</hi>
+                        </l>
+                        <l>
+                           <hi>Where in ſome flowry Garden I'le adorne</hi>
+                        </l>
+                        <l>
+                           <hi>Thy brow with love: I'le tell thee what thoſe glories</hi>
+                        </l>
+                        <l>
+                           <hi>Are, that crown eternity, I will not ſcorne</hi>
+                        </l>
+                        <l>
+                           <hi>To tell my ſuffrings and my paſſion ſtories:</hi>
+                        </l>
+                        <l>
+                           <hi>Let me infold thee in my loving armes,</hi>
+                        </l>
+                        <l>
+                           <hi>If thou wilt reſt ſecure from numerous harmes:</hi>
+                        </l>
+                        <l>
+                           <hi>Ariſe my faireſt dear, love ſtrikes his lowd alarms.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <head>IV.</head>
+                        <l>
+                           <hi>Riſe Phoeb', and come away: how ſweet a ſmell</hi>
+                        </l>
+                        <l>
+                           <hi>Comes from th' Arabian hills! my pritty Love,</hi>
+                        </l>
+                        <l>
+                           <hi>The little birds warble their muſique well,</hi>
+                        </l>
+                        <l>
+                           <hi>And yonder ſits the Larke and turtle dove:</hi>
+                        </l>
+                        <l>
+                           <hi>Come, let's goe walke, and we will paralell</hi>
+                        </l>
+                        <l>
+                           <hi>Love with eternall glory: in you Grove</hi>
+                        </l>
+                        <l>
+                           <hi>Wee'le take the ſubtle Fox, nor will we ſpare,</hi>
+                        </l>
+                        <l>
+                           <hi>To hunt the light foot Deere, or timerous Hare:</hi>
+                        </l>
+                        <l>
+                           <hi>Come then my love, my dove, ariſe my faireſt faire.</hi>
+                        </l>
+                     </lg>
+                     <pb n="20" facs="tcp:34059:21"/>
+                     <lg>
+                        <head>V.</head>
+                        <l>
+                           <hi>Riſe, Phoeb' and come away: thy blinded eye</hi>
+                        </l>
+                        <l>
+                           <hi>Is lul'd to ruine in diſlumbring dreame:</hi>
+                        </l>
+                        <l>
+                           <hi>Why art thou rockt in ſuch a lullaby,</hi>
+                        </l>
+                        <l>
+                           <hi>And drown'd in various wanton ſtreames?</hi>
+                        </l>
+                        <l>
+                           <hi>Come let us travell to eternity,</hi>
+                        </l>
+                        <l>
+                           <hi>And languiſh in the pureſt ſweet extreames:</hi>
+                        </l>
+                        <l>
+                           <hi>Wherefore, my deare, ſo greedy doſt thou crowd</hi>
+                        </l>
+                        <l>
+                           <hi>To danger? why to darkneſſe doſt thou ſhrowd,</hi>
+                        </l>
+                        <l>
+                           <hi>And leave thy love alone, wrapt in a ſable Cloud.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <head>VI.</head>
+                        <l>
+                           <hi>Riſe Phoeb', and come away: thy ſhort Repoſes</hi>
+                        </l>
+                        <l>
+                           <hi>Are flattring ſlumbers: leave thy ſlippry hold</hi>
+                        </l>
+                        <l>
+                           <hi>Of ſordid earth, come on a bed of Roſes;</hi>
+                        </l>
+                        <l>
+                           <hi>Ile knit thy haire in knots of fringed gold;</hi>
+                        </l>
+                        <l>
+                           <hi>Wee'le puſſe the flying day in entercloſes</hi>
+                        </l>
+                        <l>
+                           <hi>Of deareſt love, with glory uncontroul'd:</hi>
+                        </l>
+                        <l>
+                           <hi>I'le teach thee how to ſurfet in the fire</hi>
+                        </l>
+                        <l>
+                           <hi>Of loves immortall flames, while ſome deſire,</hi>
+                        </l>
+                        <l>
+                           <hi>To ſpe<g ref="char:cmbAbbrStroke">̄</g>a their time in praiſ; thou rather ſhalt admire.</hi>
+                        </l>
+                     </lg>
+                     <lg>
+                        <head>VII.</head>
+                        <l>
+                           <hi>Riſe Phoeb', and come away: we'le make great</hi> Jove<g ref="char:punc">▪</g>
+                        </l>
+                        <pb n="21" facs="tcp:34059:21"/>
+                        <l>
+                           <hi>To ſtop his fiery horſes ſwift carere,</hi>
+                        </l>
+                        <l>
+                           <hi>Whoſe noſtrills vomit flames: we'le mount above,</hi>
+                        </l>
+                        <l>
+                           <hi>And hold the Reines of</hi> Titans <hi>hemiſphare, ſgrove,</hi>
+                        </l>
+                        <l>
+                           <hi>And guide his Chariot wheeles through pleaſures</hi>
+                        </l>
+                        <l>
+                           <hi>And view the hallowea walks. Come, come my dear,</hi>
+                        </l>
+                        <l>
+                           <hi>Lets wander to Elizium, whoſe bright ray</hi>
+                        </l>
+                        <l>
+                           <hi>Out-ſhines great</hi> Phoebus <hi>in his new born day,</hi>
+                        </l>
+                        <l>
+                           <hi>Or the moſt faireſt noon, riſe Phoeb' and come away.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+               </div>
+            </div>
+            <div n="4" type="soliloquy">
+               <head>The fourth SOLILOQUIE.</head>
+               <p>AH! Lord, thou commandeſt us to ſeeke thy face, that we may ſhun death, and yet thou ſayeſt none can ſee thy face and live: Ah! let me live, that I may know thee; or die, that I may ſee thee. It is the happineſſe of thoſe glorious Angels that they continually behold thee, and therefore they incompaſſe thine Altar, with ſweet Odours, unſpeakeable Rhaptures, and high Halle<g ref="char:EOLhyphen"/>lujah's; but we, poore mortalls, preſt down with ſinne, with guilt, with fleſh, with feare, cannot worthily praiſe thee.</p>
+               <p>Ah me! why doe I ſeeke thee, If thou beeſt no where abſent? why doe I not finde thee, if thou beeſt every where preſent? ſure to the eye of dark<g ref="char:EOLhyphen"/>neſſe, thou wrappeſt thy ſelfe in thicke darkenes,
+<pb n="22" facs="tcp:34059:22"/>and thou art diſcovered to the eye that is enlight<g ref="char:EOLhyphen"/>ned, thou art ſeene in thy power to ſinners, in thy terrour to Sathan, in thy Sonne to thy Saints; thou art ſeene in thy judgement to them that are againſt thee, in thy Juſtice to them that flye from thee, in thy Sacraments to them that ſeeke thee, in thy Lawes to them that love thee, and in thy Love to them that know thee.</p>
+               <p>Whence proceedeth this thy condiſcention, and thine infinite humiliation, that thou did'ſt leave thy Throne in Heaven to live in the forme of a ſer<g ref="char:EOLhyphen"/>vant on earth? Why didſt thou change thy Crowne of Royalty, for a Crowne of Indignity? Why ſhould aninfinite Creatour love a finite Creature, and Heaven ſtoope to Hell?</p>
+               <p>Alas, oh Lord Jeſus, heere was no Royall Throne for thy Majeſty, no Glorious Temple to entertaine thee, heere was no winged Cherubins to beare thee, no Armies of Angells to ſtand be<g ref="char:EOLhyphen"/>fore thee, no ſweete faced object to delight thine eyes, no muſicall Raptures to ſalute thine eares, no coſtly odours to annoynt thy feete, nor ſpangled Canopy to ſpread over thy head; but ſinne and ſhame, guilt and feare, hell and horrour, blackneſſe and darkeneſſe, extremity, poverty, impurity, de<g ref="char:EOLhyphen"/>formity; and canſt thou love ſo poore a thing as man, oh thou that inhabiteſt in Heaven, in light inacceſſible, in glory incomprehenſible, who canſt
+<pb n="23" facs="tcp:34059:22"/>with a frowne overturne thine enemies fame, and by their ruine purchaſe thy ſelfe glory, and if the World ſhould totally revolt from thee, and ſet her ſelfe againſt thee? Couldſt thou not command a ſuddaine clap of thunder to ſpurne her from her Poles, ſhake her from her Center, crack her Ax<g ref="char:EOLhyphen"/>eltrees, and breake her Chariot wheeles? Couldſt thou not let looſe the Elements that the Heavens ſhould bee hid in blackneſſe, and the Sunne ſhould bee cloathed in darkeneſſe, that the Waters ſhould drowne the earth, and the fire ſhould devoure the aire, or with an angry breath couldſt thou not puffe them all away, that earth, and ayre, and water, and fire ſhould vaniſh, and the world ſhould be no more, and in the roome thereof create in a mo<g ref="char:EOLhyphen"/>ment to perfect thy praiſes, ten thouſand ſeverall Orbes?</p>
+               <p>Why then (oh man) art thou ſo much deluded? Why is Heaven and his ſweet invitations ſo much diſregarded? ſure there bee foure dayes in which thou wilt call thy ſelfe foole for neglecting ſo great ſalvation: And they be theſe.</p>
+               <p>The day of publick calamity.</p>
+               <p>The day of private extreamity.</p>
+               <p>The day of death.</p>
+               <p>The day of doome.</p>
+               <p>Firſt in the day of publick calamity, if the world ſhould bee governed in blackneſſe and darkeneſte:
+<pb n="24" facs="tcp:34059:23"/>If natures fabrick ſhould bee ſmitten, if the po<g ref="char:EOLhyphen"/>wers of the world ſhould bee ſhaken, if the wa<g ref="char:EOLhyphen"/>ters ſhould bee looſed, if the fire ſhould bee kind<g ref="char:EOLhyphen"/>led, if the ayre ſhould bee infected, if the earth ſhould bee poyſoned, if the ſword ſhould begin to range againe, and thou ſhouldſt ſee thouſands of mangled bodies about the ſtreets; if the trumpets ſhould ſound the alarum of war againe, and the drums beat dolefull funeralls for the ſoul<g ref="char:EOLhyphen"/>diers, if whiſling bullets and fiery granadoes ſhould fall like haile on the earth, and roare like the thunderclaps in heaven, if every mans ſword ſhould bee ſet againſt his fellow, if the earth ſhould bee paved with dead mens bones, and the channels run downe with blood, if this flouriſh<g ref="char:EOLhyphen"/>ing Kingdome ſhould bee made a burnt offering, &amp; her people lye beeding like a new ſlain ſacrifice; where then couldſt thou finde a chamber to hide thee in, but in thy beloveds armes, and under the ſhaddow of his mighty wings: when the Lord comes to make inquiſition for blood, and his fury ſhall breake out in fiery flames to lick up the ſin<g ref="char:EOLhyphen"/>ners of the world; then will Jeſus Chriſt bee as a ſhadowed grove in a thundering ſtorme, as a cooling rock in a ſcorching day, and a fountaine of water in a weary land, when the worldling ſhall looſe his anchor of hope and ſuffer ſhipwrack, thou ſhalt ſafely bee ſet a ſhoare.</p>
+               <pb n="25" facs="tcp:34059:23"/>
+               <p>If the famine ſhould run after the ſword, &amp; the ſtouteſt heart ſhould grow faint, and the faireſt face ſhould begin to wax pale becauſe of pining hunger.</p>
+               <p>If the peſtilence ſhould follow famine, if ter<g ref="char:EOLhyphen"/>rour ſhould walke in darkeneſſe, and the arrowes of the Almighty fly at noone day; if a thouſand ſhould fall on thy right hand, and ten thouſand on thy left hand, and thou beginneſt to feare becauſe of the evill that is come upon the world; who then can protect thee that judgements may not touch thee, but Jeſus Chriſt? Tell mee then, hath hee not cauſe to bee beloved, would hee not bee worthy to bee deſired?</p>
+               <p>Secondly, in the day of private extremity, when thine eyes ſhall bee opened, and thy heart ſhall bee awaked, when thy minde ſhall bee troubled and thy conſcience tormented, when ſinne and all its terrour ſhall come to make thy life intollerable, when the remembrance of thy pollutions ſhall bee bitter to thy ſoule; when thine eyes ſhall bee a flood of teares, thy teares a ſea of ſorrow, thy ſorrow a clog upon thy ſpirit, thy ſpirit a trouble to thy minde, thy minde a torment to thy heart, thy heart an enemy to thy life, thy life a burthen to thy dayes, when thy conſcience ſhall gnaw thee like a ravenous Vulture, and guilt and feare ſhall ſting thee worſe then an Addar, when thou ſhalt ſit downe in ſorrow all the day feeding on worm<g ref="char:EOLhyphen"/>wood,
+<pb n="26" facs="tcp:34059:24"/>and drinking the poyſon of Aſpes; how wilt thou be ready to teare thy ſelfe in pieces, when thou ſhalt feele a little of the weight of ſin, which made thy Saviour groane? when thy heart shall be affrighted, and thy minde shall be amazed, when Hell is diſcovered, and the Heavens are dar<g ref="char:EOLhyphen"/>kened: then would not that glorious arme that now invites thee, be welcome to thee? nay, would he not be worth a thouſand worlds, that shall eaſe the anguish of thy ſoule in ſuch an houre?</p>
+               <p>Thirdly, at the day of death, thy beloved will be deſired, when the Sunne, and the light, and the Moone, and the Stars, shall be darkned; and the clowdes returne after the Raigne; when thy joynts shall tremble, and thy knees knock toge<g ref="char:EOLhyphen"/>ther; when thy courage shall be faintneſſe, thy beauty shall bee p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leneſſe, and thy reſt shall bee wearineſſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, when thy memory shall faile thee, when thine eyes shall deceive thee, when death shall shake th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e, thy riches ſlye from thee, and the Mourners ſtand about thee; when ſin, and feare, and g<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, and horrour, and death, and terrour, shall conduct thee through the gates of morta<g ref="char:EOLhyphen"/>lity, and launch thee forth into the Gulph of e<g ref="char:EOLhyphen"/>ternity; when all about thee ſeeme to daunce around thee in the daunce of death: then ſinner ſee in all thy invento<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y, what wilt thou prize none but Jeſus Chriſt? and welcome Jeſus Chriſt
+<pb n="27" facs="tcp:34059:24"/>to the ſinner in ſuch a day.</p>
+               <p>Fourthly, at the day of Judgement, thy Saviour will be welcome, when at the ſound of the trum<g ref="char:EOLhyphen"/>pet, and the ſhout of the Arch Angell, the ſleeper ſhall be awaked, the world ſhall bee ſtarted, the living ſhall be changed, the graves ſhall be opened, the dead ſhall be raiſed, when the heaven ſhall be covered in thicke darkneſſe, when the Sea ſhall boyle up in ſuch mighty waves, as ſhall ſeeme to drowne the world, when thou ſhalt ſee the earth ſurrounded by fire, and the heavens ſweltring in flames; when thou ſhalt behold the great Judge of the world ſitting upon his glorious throne, borne by winged Cherubins, ſurrounded by Armies of Angells, before whom ſhall ſtand millions of naked mortals to receive their eternall doome: then a smile from the Judge on the throne will revive <gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e at the laſt, and thou wilt hold up thy head with joy; then that arme that now in<g ref="char:EOLhyphen"/>vites thee, will be able to crowne thee in immor<g ref="char:EOLhyphen"/>tallity. Theſe are the foure dayes in which thou wilt repent thy neglect of the proffers of Love.</p>
+               <p>And now Reader, mayſt thou ſhut the Booke, and ſtand amazed, an howres contemplation upon the thoughts of eternity may well take roome. Ah, that Jeſus Chriſt ſhould come from the boſome of his Father, from the company of his Angels, from the pleaſure of his Paradice, from
+<pb n="28" facs="tcp:34059:25"/>his Chaire of dignity, from his Crowne of glory, to put on mortality, to ſuffer indignity, to live in poverty, to endure extremity, to be a man of ſor<g ref="char:EOLhyphen"/>row all his dayes, to be buffeted, ſcourged, perſe<g ref="char:EOLhyphen"/>cuted, tormented, reviled, reproached, diſpiſed, diſgraced, diſparaged, and abuſed from his cradle to his Croſſe, and then wander through the shad<g ref="char:EOLhyphen"/>dow of death, and hells darke groves, from his Croſſe to his Crowne! How ſoone (when the Heire of heaven was ſmitten) was natures Fabrick ſhaken? how ſoone (when the Sunne of glory was extinguiſhed) was the Sunne of Heaven e<g ref="char:EOLhyphen"/>clipſed? What meanes the Heavens to frowne, the Earth to quake, the Souldiers to tremble, the Temple to rend, the Graves to open, the Dead to ariſe? Why muſt Heaven bee faine to ſuffer, and natures Fabrick bee out of order? Was all this for man? Alas! and what is man? A little mouldring duſt, a piece of moving earth, a maske of mortallity, an inch of eternity, whoſe life is but labour, whoſe wiſdome is but folly, whoſe grace is but impurity, whoſe comelyneſſe defor<g ref="char:EOLhyphen"/>mity, whoſe ſubſtance is ſinne, whoſe glory is his ſhame.</p>
+               <p>Say Reader, didſt thou ever ſee Royalty wooe Indignity, Honour looke on Lowneſſe, Highneſſe ſue to Baſeneſſe? Didſt thou ever ſee a King ſerve a Slave, Gentility wooe Poverty, and Beauty love
+<pb n="29" facs="tcp:34059:25"/>Deformity? Then Reader recollect thy wandring thoughts, and before thou paſſeſt to the other page pay here the tribute of a teare.</p>
+               <p>How hath the Prince of darkeneſſe beſotted blinded mortalls? How is man (poore man) be<g ref="char:EOLhyphen"/>fooled? How doth hee ſell his Corne for Chaffe, his Silver for Droſſe, his Treaſure for Torment, his Paradice for Pleaſure, his Glory for Honour, his Heaven for Earth, his Earth for Hell? How doth hee ſet his heart on vanity, and ſlights the richeſt rarity? God calls once and twice, and the carnall heart heares not: hee comes with all the pureſt expreſſions, and ſweeteſt invitations, with all the words of Art, and the allurements of love, yet blinded man regards not, but wallowes in impurity, and ſlumbers in a lethargy, till hee perishes to eternity.</p>
+               <p>Ah Lord, thou dwelleſt in that light inacceſſi<g ref="char:EOLhyphen"/>ble, and brightneſſe incomprehenſible, that no eye can ſee, and not be ſtruck blind; thy glorious Pal<g ref="char:EOLhyphen"/>lace ſtands in eternity, and thy ſparkling Throne is ſcituate in immortallity, in the midſt of bright<g ref="char:EOLhyphen"/>neſſe in ſuch a circle of glory, that no mortall can behold unleſſe hee drop downe and dye.</p>
+               <p>Dominion and feare are with thee, and of thy Government there shall bee no end: What gaine is it to thee if wee bee Righteous, and wherein art thou damaged, if wee bee polluted?
+<pb n="30" facs="tcp:34059:26"/>If the world should revolt from the Prince of darkeneſſe, and vaile her Crowne to thy Suprea<g ref="char:EOLhyphen"/>macy: If all Nations ſhould bee willing to bee ſwayed by the Scepter, and bow before thy im<g ref="char:EOLhyphen"/>mortall Throne, this cannot adde to the greatneſſe of thy Majeſty; nor if the diſobedience of thy Children, the frownes of thy Foes, the envy of thy Enemies, the ſubtilty of Sathan, the wicked<g ref="char:EOLhyphen"/>neſſe of the World, the helpe of Hell, were a<g ref="char:EOLhyphen"/>gainſt thee ſet in battle Ray, they could not darken thy Dignity, they could not eclipſe thy Glory.</p>
+               <p>Yet albeit thou couldſt gaine honour by our deſtruction, yet thou delighteſt in our converſion: and therefore thou offereſt thy Word, thy Goſpel, thy Sacrament, thy ſelfe and thy ſonne; thou gi<g ref="char:EOLhyphen"/>veſt us Reprovements, Allurements, Precepts, and Promiſes, Comfort, and Counſell, Direction, De<g ref="char:EOLhyphen"/>hortation: But wee poore mortalls are too un<g ref="char:EOLhyphen"/>kinde to reward thy love with diſdaine, thy cur<g ref="char:EOLhyphen"/>teſie with diſtoyalty; but what shall wee ſay? Shall wee that are but duſt direct Eternity in his unſearcheable actions? Thou commandeſt us to ſeeke thee: Alas, wee cannot finde thee: Thou bidſt us apply our ſelves to know thee; Alas, we never ſaw thee: Thou bidſt us bee fruitfull, and we be unprofitable; thou commandeſt us to bee cleanſed, and wee be polluted; when our eyes should be enlightned, then our hearts are moſt
+<pb n="31" facs="tcp:34059:26"/>darkened; when we should be moſt washed, then are we moſt defiled; and when thou calleſt us to thee, even then we fly from thee. Wee loſt our dignitie when our Father <hi>Adam</hi> leſt his glory; he breaking his League with Heaven left us (his poore children) nothing but our mother, Earth, who rocks us a while upon her idle knee of igno<g ref="char:EOLhyphen"/>rance, and then layes us to lullaby in eternall darkeneſſe. Yet though wee have loſt a Subjects loyalty, thou haſt not loſt thy kingly dignity; thou ſtill retaineſt thy prerogative Royall; yea Lord, thou ſtill haſt power to command, though we (poore we) have no ability to obey. Oh that thou wouldſt, inſtead of commanding us, compell us! Oh thou that bidſt us follow thee, draw us, and we shall run after thee! Oh thou that com<g ref="char:EOLhyphen"/>mandeſt us to ſeeke thee, shew thy ſelfe that wee may finde thee: ſo, though the world lies drow<g ref="char:EOLhyphen"/>ned in a ſea of vanity, yet we that follow thee shall live holily, and dye happily: foraſmuch as our happineſſe is wrapt up in heaven, and dwells in the light of thy glory.</p>
+               <pb n="32" facs="tcp:34059:27"/>
+               <q>Now will I ſing a Song to my welbeloved, touch<g ref="char:EOLhyphen"/>ing his Vineyard: my welbeloved hath a Vineyard in a very fruitfull hill. And he fenced it, and gathered out the ſtones there<g ref="char:EOLhyphen"/>of, and planted it with the choyceſt Vine, and built a Tower in the midſt of it and al<g ref="char:EOLhyphen"/>ſo made a Winepreſſe therein: and he loo<g ref="char:EOLhyphen"/>ked it ſhould bring forth Grapes, and it brought forth wilde Grapes. <bibl>
+                     <hi>Iſa. 5. v. 1, 2.</hi>
+                  </bibl>
+               </q>
+               <lg>
+                  <head>I.</head>
+                  <l>
+                     <hi>NO more,</hi>
+                  </l>
+                  <l>
+                     <hi>Deluded England, foole thy ſelf no more,</hi>
+                  </l>
+                  <l>
+                     <hi>But goe implore</hi>
+                  </l>
+                  <l>
+                     <hi>The heavens to ope thy dim and ſlumbring eyes:</hi>
+                  </l>
+                  <l>
+                     <hi>No more,</hi>
+                  </l>
+                  <l>
+                     <hi>Let blinde deluſion keep thee ſhadowed ore,</hi>
+                  </l>
+                  <l>
+                     <hi>And make thee ſoare</hi>
+                  </l>
+                  <l>
+                     <hi>Too high in wanton pleaſures rarities:</hi>
+                  </l>
+                  <l>
+                     <hi>Ah ſin! thou oft doſt mix our ſweets with ſoure;</hi>
+                  </l>
+                  <l>
+                     <hi>Thou mak'ſt a Judgement in a ſhort liv'd houre,</hi>
+                  </l>
+                  <l>
+                     <hi>To blaſt the pureſt herb, and crop the faireſt flower</hi>
+                  </l>
+               </lg>
+               <pb n="33" facs="tcp:34059:27"/>
+               <lg>
+                  <head>II.</head>
+                  <l>
+                     <hi>Away,</hi>
+                  </l>
+                  <l>
+                     <hi>Deluded England, with thy workes away;</hi>
+                  </l>
+                  <l>
+                     <hi>A new-borne Ray</hi>
+                  </l>
+                  <l>
+                     <hi>Begins to dawne, and glorifie the aire:</hi>
+                  </l>
+                  <l>
+                     <hi>Away,</hi>
+                  </l>
+                  <l>
+                     <hi>Thou art diſcover'd poore: can miry clay</hi>
+                  </l>
+                  <l>
+                     <hi>find power to pay</hi>
+                  </l>
+                  <l>
+                     <hi>Peace offrings? no, thou art more foule then faire:</hi>
+                  </l>
+                  <l>
+                     <hi>The fig-tree brought forth leaves; but we know who</hi>
+                  </l>
+                  <l>
+                     <hi>Did blaſt her: is this all that thou canſt doe?</hi>
+                  </l>
+                  <l>
+                     <hi>Go vail thy Crown in duſt, leſt thou be'ſt withred too.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>III.</head>
+                  <l>
+                     <hi>Sit downe</hi>
+                  </l>
+                  <l>
+                     <hi>Ye glorious ſtars, goe, in the duſt ſit downe,</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe glory ſhone,</hi>
+                  </l>
+                  <l>
+                     <hi>Sometimes like</hi> Phoebus <hi>with his glittering traine:</hi>
+                  </l>
+                  <l>
+                     <hi>Sit downe</hi>
+                  </l>
+                  <l>
+                     <hi>In ſilent ſorrow, goe and quench the frowne</hi>
+                  </l>
+                  <l>
+                     <hi>Of heaven, thy Crowne</hi>
+                  </l>
+                  <l>
+                     <hi>Being vail'd, then ſhalt thou wear the Crown again:</hi>
+                  </l>
+                  <l>
+                     <hi>Why are we thus befool'd and do not cry,</hi>
+                  </l>
+                  <l>
+                     <hi>To be tranſplanted? Ah Reader! thou and I,</hi>
+                  </l>
+                  <l>
+                     <hi>Whoſe brach is withred here, may ſoon lie down &amp; die</hi>
+                  </l>
+               </lg>
+               <pb n="34" facs="tcp:34059:28"/>
+               <lg>
+                  <head>IV.</head>
+                  <l>
+                     <hi>How ſoone,</hi>
+                  </l>
+                  <l>
+                     <hi>Oh flou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>iſhing England! didſt thou ſwell? how ſoon</hi>
+                  </l>
+                  <l>
+                     <hi>Thy faireſt noone</hi>
+                  </l>
+                  <l>
+                     <hi>Was darkned o're, and turn'd a glimmering day!</hi>
+                  </l>
+                  <l>
+                     <hi>How ſoone</hi>
+                  </l>
+                  <l>
+                     <hi>Thou didſt grow glorious, prodigall, and boone!</hi>
+                  </l>
+                  <l>
+                     <hi>As the pale Moone,</hi>
+                  </l>
+                  <l>
+                     <hi>In her blacke throne bids</hi> Phoebus <hi>flye away:</hi>
+                  </l>
+                  <l>
+                     <hi>Oh it thou wilt have juſtice to reprieve thee;</hi>
+                  </l>
+                  <l>
+                     <hi>If ſtill thou wouldſt have mercy to releive thee.</hi>
+                  </l>
+                  <l>
+                     <hi>Truſt not thy hollow ſelf, thy ſelf wil but deceive thee.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <head>V.</head>
+                  <l>
+                     <hi>Ariſe,</hi>
+                  </l>
+                  <l>
+                     <hi>Oh then! and ope thy unregenerate eyes;</hi>
+                  </l>
+                  <l>
+                     <hi>How faire a prize</hi>
+                  </l>
+                  <l>
+                     <hi>Is there layd up in everlaſting glorie:</hi>
+                  </l>
+                  <l>
+                     <hi>Ariſe,</hi>
+                  </l>
+                  <l>
+                     <hi>And be adorned in vertues rarities,</hi>
+                  </l>
+                  <l>
+                     <hi>whoſe glory lies</hi>
+                  </l>
+                  <l>
+                     <hi>Drawne in the Records of this following ſtory:</hi>
+                  </l>
+                  <l>
+                     <hi>But if thy actions ſhall be ſtill but vaine,</hi>
+                  </l>
+                  <l>
+                     <hi>Led by the folly of a light haird braine,</hi>
+                  </l>
+                  <l>
+                     <hi>Thou wilt be trampled down, and withered ore again.</hi>
+                  </l>
+               </lg>
+               <pb n="35" facs="tcp:34059:28"/>
+               <lg>
+                  <head>VI.</head>
+                  <l>
+                     <hi>Then ſhine,</hi>
+                  </l>
+                  <l>
+                     <hi>For feare thy glimmering torch her light reſigne,</hi>
+                  </l>
+                  <l>
+                     <hi>And thou decline</hi>
+                  </l>
+                  <l>
+                     <hi>From thy firſt glory to a darkned ſhade;</hi>
+                  </l>
+                  <l>
+                     <hi>Then ſhine,</hi>
+                  </l>
+                  <l>
+                     <hi>Like</hi> Phoebus <hi>in the Equinoctiall line,</hi>
+                  </l>
+                  <l>
+                     <hi>With fire divine,</hi>
+                  </l>
+                  <l>
+                     <hi>Leaſt thou art blaſted and thy flower does ſade,</hi>
+                  </l>
+                  <l>
+                     <hi>So ſhalt thou flowriſh in th' enlarged ſtore</hi>
+                  </l>
+                  <l>
+                     <hi>Of wealth and Peace, thy temples arched o're,</hi>
+                  </l>
+                  <l>
+                     <hi>In a victorious Orb, and war ſhall be no more.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="5" type="soliloquy">
+               <head>The fift SOLILOQUIE.</head>
+               <p>A Gloomy Cloud may black the faireſt Morne, till <hi>Phoebus</hi> ariſeth in his midday Majeſty, and with his glory cleares the darkned Aire, when times black Daughter Night have wrapt her man<g ref="char:EOLhyphen"/>tle about the virge of day, and drowned the World in a forgotten dreame; all things ſeeme alike to all, the withered Weede, the pureſt Herbe, the comlieſt Bloſſome, and the faireſt flower: But when the day ſtarre appeares, uſhering in the morne, and bluſhing <hi>Sol</hi> ariſes as from a bed of
+<pb n="36" facs="tcp:34059:29"/>Roſes, whoſe burning Horſes chafe up the Olym<g ref="char:EOLhyphen"/>pick hill, and with their fiery fetlocks draw up the Golden Chariot of the day, the World lyes then diſcovered.</p>
+               <p>Even thus the Goſpel of our Lord Jeſus have<g ref="char:EOLhyphen"/>ing unmantled his glory from behinde a darkened cloud, ſhining in full Majeſty, diſcovers the errours of our lower World; but becauſe time will bee too ſhort to ſerve our turne, and wee ſhall tyre the Readers eyes with too large a Soliloquie: wee ſhall therefore looke upon but the latter part of our ſubject: And firſt by the Vine wee can one<g ref="char:EOLhyphen"/>ly underſtand the Church of God, and then our ſubject will lye as a ſtumbling block in the Rea<g ref="char:EOLhyphen"/>ders way; this ſeemes to bee ſtrange (ſay ſome) that the Church of God ſhould bee a fruitleſſe Vine: No, this Vine beares pleaſant fruit, yet there are many worthleſſe Branches that ſprout a<g ref="char:EOLhyphen"/>mong them bearing great ſhow, but little ſub<g ref="char:EOLhyphen"/>ſtance; but when the wiſe Husbandman ſhall loppe them off, the Branches that remaine ſhall ſprout higher, the fruit ſhall bee the ſweeter, and the Vine ſhall flouriſh the more.</p>
+               <p>And firſt wee shall endeavour to diſcover eight ſorts of Branches that will bee cut from the Vine: And they be theſe.</p>
+               <list>
+                  <item>1. The Adulterer.</item>
+                  <item>2. The Drunkard.</item>
+                  <pb n="37" facs="tcp:34059:29"/>
+                  <item>3. The Robber.</item>
+                  <item>4. The Lyar.</item>
+                  <item>5. The Sabboth-breaker.</item>
+                  <item>6. The Swearer.</item>
+                  <item>7. The Uſurer.</item>
+                  <item>8. The Hypocrite.</item>
+               </list>
+               <p>Firſt the Adulterer is a barren branch and shall bee cut off. Thou Adulterer whoſe blood boyles in thy vaines, and thy marrow is burnt in thy bones, who art ſcorched in fire, and ſweltred in flames, who ſwimmeſt in vanity, and art drowned in a forgotten Dreame; thy Morning is riſen, and thy Sunne hath aſpired to the top of Noone<g ref="char:EOLhyphen"/>day; thou ſeemeſt to ride upon the wings of Time, commanding Pleaſure as if shee were thy Captive; Come wee will take a short ſurvey of thy life, which if the Scripture deceives us not, is but the way to death.</p>
+               <q>
+                  <hi>For at the window of my houſe I looked through my caſement, and beheld among the ſimple ones, I diſcerned among the youth, a yong man void of underſtanding, paſsing through the ſtreete neere her corner, and hee went the way to her houſe, in the twilight in the evening, in the blacke and darke night: and behold, there met him a woman, with the attire of an
+<pb n="38" facs="tcp:34059:30"/>Harlot, and ſubtle of heart. (She is lowd and ſtubborne, her feet abide not in her houſe: Now is ſhe without, now in the ſtreets, and lieth in waite at every corner.) So ſhe caught him: and kiſſed him, and with an impudent face, ſaid unto him, I have peace offerings with me: this day have I payd my vowes. Therefore came I forth to meet thee, diligently to ſeek thy face, and I have found thee. I have deckt my bed with coverings of Tapeſtry, with car<g ref="char:EOLhyphen"/>ved workes, with fine linnen of Egypt. I have perfumed my bed with myrrhe, aloes, and cy<g ref="char:EOLhyphen"/>namen. Come, let us take our fill of love untill the morning, let us ſolace our ſelves with loves. For the good man is not at home, he is gone a long journey.</hi> 
+                  <bibl>Proverbs 7. verſ. 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19.</bibl>
+               </q>
+               <p>But what is ſhe end of all this? if we look on the end of the chapter, we ſhall ſee the end of the Adulterer: <hi>Her houſe is the way to hell, going down to the chambers of death,</hi> verſe 27. Thou doſt not dreame thou ſhalt be blaſted; I tell thee, ere long thou ſhalt be lopt off, and flung into eternity: I grant thou haſt aſpired to the top of thy Olympick Palace; but thou shalt shortly fall: thy life hath
+<pb n="39" facs="tcp:34059:30"/>beene (at beſt) but a Tragicomedy, and thou haſt acted the fools part with pleaſure: but I tell thee, death ere long shall ſtrike the Epilogue, and thou shalt goe away.</p>
+               <p>Secondly, the Drunkard is a barren Branch.</p>
+               <q>
+                  <hi>Woe to the crowne of pride to the drunkards of Ephraim, whoſe glorious beauty is a fading flowre, which are on the head of the fat val<g ref="char:EOLhyphen"/>leyes of them that are overcome with Wine.</hi> 
+                  <bibl>Iſaiah 28. verſ. 1.</bibl>
+               </q>
+               <p>Thou Drunkard that carowſeſt care away, and on thy Ale-bench, blaſphemeſt the God of Hea<g ref="char:EOLhyphen"/>ven, that takeſt no felicity but in ſwinish compa<g ref="char:EOLhyphen"/>ny, and knoweſt no other happines, but the colour of the wine; thou burdeneſt the earth, thou infla<g ref="char:EOLhyphen"/>meſt the fire, thou infecteſt the aire, thou art as a flowre drowned with the dew of Hea<g ref="char:EOLhyphen"/>ven, and boweſt thy glory to the earth: goe drunkard, take thy fill of Wine untill the morning: but I tell thee, the houre is comming, when (it may be) the hand of Heaven shall write thy doom upon the plaiſter of the wall, <hi>Daniell</hi> 5.25, 26. ere long thou mayſt Read MENE MENE TEKEL UPHARSIN: God hath num<g ref="char:EOLhyphen"/>bred thy dayes and finisht them, and being found
+<pb n="40" facs="tcp:34059:31"/>too light, thy glory is departed from thee: then shall thy loynes be looſed, thy countenance chan<g ref="char:EOLhyphen"/>ged, and thy falſe heart affrighted: thou that drinkeſt iniquity like water, I tell thee, ere long thou shalt wash thy ſelfe away; thy fruit is al<g ref="char:EOLhyphen"/>ready withered, and thou shalt be lopt from the Vine.</p>
+               <p>Thirdly, the Robber is a barren Branch, <hi>Levi<g ref="char:EOLhyphen"/>ticus</hi> 19. <hi>verſ.</hi> 11.</p>
+               <p>Thou that by the Art of Leger-de-maine adop<g ref="char:EOLhyphen"/>teſt every mans goods thine owne, I know thou wouldſt have joy without ſorrow, wealth with<g ref="char:EOLhyphen"/>out want, fruit without faith, and life without death: but remember, the pitcher at laſt comes broken home. <hi>There is a way ſeemes right in the eyes of man, but the end thereof is the path of death.</hi> Proverbs 14. verſ. 12.</p>
+               <p>What though thou haſt wheel'd off fairly once, or twice, or thrice? yet thou shalt shortly fall: <hi>Agememnon</hi> after all his 10 yeares wars at <hi>Troy,</hi> was ſlain in one night among his freinds at <hi>Greece.</hi> The valiant <hi>Hector,</hi> whoſe temples were ſo often archt in a victorious Orbe, while he was quitting his Countrey with gallantry, and affronting his enemies in the height of bravery, received (in a moment) the Embaſſage of death: and upon the ground meaſured out his grave. The mighty <hi>A<g ref="char:EOLhyphen"/>chilles,</hi> whoſe arme ſeemed a Poſtilion of death,
+<pb n="41" facs="tcp:34059:31"/>was ſlaine at laſt by a little winged Arrow, and ſent to his long home.</p>
+               <p>Tell me, thou that canſt draw thy ſword, and bid defiance (upon the high way) to truth and fi<g ref="char:EOLhyphen"/>delity, where lies thy brother <hi>Caine,</hi> or <hi>Akan,</hi> or <hi>Judas,</hi> or <hi>Ahab?</hi> does not their glory grovill in the ground? or are they not ſweltring in eter<g ref="char:EOLhyphen"/>nall flames? It may be thou haſt endured many a blaſt: but there may come a blaſt ere long that may puffe thee quite away. Thou that art ac<g ref="char:EOLhyphen"/>quainted with the Law ſo well, that thou canſt ſometimes confute the Reverend Judges, and yet performeſt never a tittle thereof; believe mee, thou canſt not plead with death: hee will come with a <hi>Habeas corpus,</hi> and remove thee to eterni<g ref="char:EOLhyphen"/>ty: Foraſmuch as thou art found unfruitfull in the Vineyard, thou shalt be cut from the Vine, and have thy portion in that lake of terrour, where time shall be no more.</p>
+               <p>Fourthly, the lyar is a barren Branch. <hi>Leviti<g ref="char:EOLhyphen"/>cus</hi> 19. <hi>verſ.</hi> 11.</p>
+               <q>
+                  <hi>Why boaſteſt thou thy ſelfe in miſchiefe, O mighty man? the goodneſſe of God endureth continually. Thy tongue deviſeth miſchiefes: like a ſharpe raſor working deceitfully. Thou loveſt evill more then good: and lying rather
+<pb n="42" facs="tcp:34059:32"/>then to ſpeake righteouſneſſe. Selah. Thou loveſt all devouring words, O thou deceitfull tongue. God ſhall likewiſe deſtroy thee for e<g ref="char:EOLhyphen"/>ver, he ſhall take thee away, and pluck thee out of thy dwelling place, and root thee out of the Land of the living.</hi> 
+                  <bibl>Pſalme 52 verſ. 1, 2, 3, 4, 5.</bibl>
+               </q>
+               <p>Thou that ſo oft doſt call the God of heaven (who is truth it ſelfe) to witneſſe to a lie: tell me thou ſordid peece of earth? canſt thou blinde the eies of heaven? or canſt thou draw a curtaine before the face of the moſt high? does not his eie ſee thee? does not his eare heare thee? does not his heart ponder thy waies? tell me? is he ex<g ref="char:EOLhyphen"/>cluded any where, that can be comprehended no where? if thou goeſt to heaven, he is there; if downe to hell, he is there; if thou take the wings of the morning, and flye to the uttermoſt parts of the earth, from thence the hand of God ſhall find thee out. Come thou lyar, Read the ſtory of <hi>A<g ref="char:EOLhyphen"/>nanias</hi> and <hi>Sapphira, Acts</hi> 5. <hi>verſ.</hi> 1, 2, 3, 4, 5, 5, 7, 8, 9, 10. The tree withers ſoone away that is periſht at the Root, and thou ſhalt ſhortly fall, who art rotten at the heart: Alas, thou art nothing but a walking ſhaddow, a guilded peece of aire, whoſe wealth is but poverty, whoſe bravery but vanity,
+<pb n="43" facs="tcp:34059:32"/>whoſe truth infidelity, and thou ſhalt ere long be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hut out of eternity. <hi>Revelation</hi> 22. <hi>verſ.</hi> 15. thy preſent tenſe ere long ſhalbe made a preterimper<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ectenſe; and it ſhall ſhortly be ſaid of thee, he was, and is not; yet a little while, and thou ſhalt be no more, but ſhalt fade as the withering graſſe, and wither as the dying flowre.</p>
+               <p>Fifthly, the Sabbath breaker is a barren Branch.</p>
+               <q>
+                  <hi>Ye ſhall keep my Sabbath therefore, for it is holy unto you: every one that breaketh it ſhall be cut off from among his people: for whoſoe<g ref="char:EOLhyphen"/>ver doth any worke therein, that ſoule ſhall ſurely be put to death. Six dayes may worke be done, but the ſeventh day is the Sabbath of reſt, holy to the Lord: whoſoever doth any worke therein ſhall ſurely be put to death. Wherefore the Children of Iſraell ſhall keep the Sabbath to obſerve the Sabbath throughout their gene<g ref="char:EOLhyphen"/>rations, for a perpetuall memory. It is a Co<g ref="char:EOLunhyphen"/>venant between me and the Children of Iſrae<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> for ever: for in ſix dayes the Lord made hea<g ref="char:EOLhyphen"/>ven and earth, and on the ſeventh day he re<g ref="char:EOLhyphen"/>ſted and was refreſhed.</hi> 
+                  <bibl>Exod. 31. verſ. 13, 14, 15, 16, 17.</bibl>
+               </q>
+               <pb n="44" facs="tcp:34059:33"/>
+               <p>Come thou prophane Sabbath breaker, thou findeſt fault of the ſhortneſſe of thy time: I tell thee ere long thy time ſhall be cut away; the candle thou now doſt waſte in pleaſure, thou wilt hereafter begge to ſpend in prayer: what (thou wretch) if thy God had required ſix dayes in the weeke to ſanctifie his name, and celebrate his praiſe? how wouldeſt thou have done, that if thou canſt not give him one in ſeven? Goe ſor<g ref="char:EOLhyphen"/>did earth, imbalme thy ſelf in tears; thou knoweſt not what felicity the godly take in this dayes pro<g ref="char:EOLhyphen"/>greſſe, while they travell through the coeleſtiall Groves, and while they wander through the faire <hi>Elizium</hi> walkes; aſpiring beyond the reach of this unworthy earth, to change their hourely en<g ref="char:EOLhyphen"/>tercourſe of love with Heaven, whoſe ſervice is perfect freedome, redemption from ſlavery, and a path way to glory: every dayes progreſſe ſends thee nearer to eternity, and thou makeſt but a few Sabbath dayes journey towards Heaven: why tell me? whither doeſt thou wander? Is it be<g ref="char:EOLhyphen"/>cauſe there is no God in Iſrael, that thou ſerveſt the god of <hi>Ekron?</hi> or becauſe thou haſt dined on earth, wilt thou now goe ſup in hell? away blind man, thou runneſt to thy ruine: retire a while to thy forgotten ſelfe, and reckon how faſt thy win<g ref="char:EOLhyphen"/>ged houres flie away.</p>
+               <p>Ah Lord! thy Sabbaths in former ages have
+<pb n="45" facs="tcp:34059:33"/>been celebrated to thy praiſe, when thy people ſpake often one to another to thy glory, when the morning ſtarres ſang together, and all the ſonnes of God ſhouted for joy; thy Saints in for<g ref="char:EOLhyphen"/>mer ages (upon thy holy day) have met to offer up their perfumed oblations, and dayly ſacrifices to thee who dwelleſt between the Cherubins: but now the beauty of Iſraell is gone from the high places; Oh how are the mighty falne! tell mee thou wretch that ſayeſt, when will the Sabbath be over, that we may ſell our Corne, and Wine, and Oyle, that we may put on our gallant appar<g ref="char:EOLhyphen"/>rell, and heape up bags of gold? what gaine is in riches, what beauty in bravery, what profit in pleaſure, what glory in honour? thy riches are but poverty, thy beauty deformity, thy pleaſure a penalty, thine honour ſlavery; therefore foole thy ſelfe no more, by omitting thy duty, and rob<g ref="char:EOLhyphen"/>bing heaven of his glory, leſt thou beeſt ſtrucke with leaproſie like <hi>Miriam,</hi> leſt thou beeſt ſwal<g ref="char:EOLhyphen"/>lowed up like <hi>Corah, Dathan,</hi> and <hi>Abiram,</hi> leſt thou art conſumed with fire like the ſonnes of <hi>A<g ref="char:EOLhyphen"/>ron,</hi> leſt thou haſt a ſhower of ſtones like <hi>Akan,</hi> or art ſhot with an arrow from heaven like <hi>Julian,</hi> leſt thou beeſt lopt from the Vine, and cut from the earth, and ſhut out of Heaven, and flung into Hell, leſt thy poſſeſſion be made a deſolation, and thy memory periſh from the earth for want of a memory.</p>
+               <pb n="46" facs="tcp:34059:34"/>
+               <p>Sixthly, the ſwearer is a barren Branch.</p>
+               <q>
+                  <hi>Ye ſhall not ſweare by my Name falſly, nei<g ref="char:EOLhyphen"/>ther ſhalt thou prophane the name of thy God: I am the Lord.</hi> 
+                  <bibl>Levit. 19. verſ. 12.</bibl>
+               </q>
+               <p>Thou prophane Wretch, that with thy breath infecteſt the aire, and with thy body burdeneſt the earth, and with thy heart doſt blaſpheme heaven, what became of the prophane <hi>Rabſhekah,</hi> or the blaſphemous <hi>Senacherib,</hi> that with their tongues ſounded ſuch thunderclaps in fearefull Iſraells ears? but when their lips upbraided the God of Heaven, how ſoon did he bow their proud impe<g ref="char:EOLhyphen"/>rious necks, and layd their glory groveling in the ground: thou black mouth'd ſwearer, that with a flaſh of Oathes doeſt exalt thy ſelfe to Heaven; I tell thee ere long thou ſhalt be ſpurned downe to Hell: thy life ſeemes yet a merry Comedy, but thou knoweſt not how ſoone thou ſhalt ſpeake the laſt ſceane, which being done, thou ſhalt <hi>exit,</hi> to the attiring roome of earth, and undreſſe thee in the ſilent grave: thou foule mouth'd ſwearer thou faine wouldſt be accounted a Chriſtian, yet liveſt more deboyſter then the Heathen. Come if thou art a Chriſtian, trye thy Copy by thy Savi<g ref="char:EOLhyphen"/>ours Preſident, and ſee how thou obeyeſt his com<g ref="char:EOLhyphen"/>mand.</p>
+               <pb n="47" facs="tcp:34059:34"/>
+               <q>
+                  <hi>But I ſay unto you, ſweare not at all, neither by Heaven, for it is Gods throne: nor by earth, for it is his footſtoole: nether by Hieru<g ref="char:EOLhyphen"/>ſalem, for it is she City of the great King. Neither ſhalt thou ſweare by thy head; becauſe thou canſt not make one haire white, or blacke. But let your communication be Yea, yea: Nay, nay: for whatſoever is more then theſe, com<g ref="char:EOLhyphen"/>meth of evill.</hi> 
+                  <bibl>Matthew 5. verſ. 34, 35, 36, 37.</bibl>
+               </q>
+               <p>Poore man, thou art ſo far from diſhonouring thy God by this, that by thy Ruine he will pur<g ref="char:EOLhyphen"/>chaſe himſelfe glory: as the Traveller that ſpits againſt the winde, hath it blowne in his face; ſo thou that with thy breath blaſphemeſt heaven, bloweſt but the fire of Hell, which ſhall torment thee to eternity: thou that doeſt waſte thy time in trifles, and thy dayes in a dreame, thou art at the beſt but a piece of perjury, and a flaſh of vani<g ref="char:EOLhyphen"/>ty, that walkeſt by the light of thine owne fire, and the ſparkes thou haſt kindled. This is the portion thou ſhalt have from the hand of Heaven, thou ſhalt lie downe in ſorrow.</p>
+               <p>Seventhly, the covetous man is a barren Branch, and ſhall be cut from the Vine.</p>
+               <pb n="48" facs="tcp:34059:35"/>
+               <p>What's hee that ſo prophanes all purity, and ſcornes the power that others doe adore; that curſeth his Tapour for burning ſo faſt, his provi<g ref="char:EOLhyphen"/>ſion for ſpending too ſoone, his houres for flying too ſwift, and his purſe for filling too ſlow? Thou groveling worldling, that Viper-like, doeſt teare thy Mothers wombe, and off reſt ſacrifice to the god of gold, that art as pollitick as <hi>Achitophell,</hi> as proud as painted <hi>Jezebell,</hi> as churliſh as <hi>Naball,</hi> as ſwift as <hi>Aſahell;</hi> hadſt thou the pollicy of <hi>
+                     <g ref="char:V">Ʋ</g>
+                     <g ref="char:EOLhyphen"/>lyſſes,</hi> the ſtrength of <hi>Hercules,</hi> the beauty of <hi>A<g ref="char:EOLhyphen"/>donis,</hi> the wealth of great <hi>Nilus,</hi> or the gold of rich <hi>Tagus:</hi> thou art but a houſe of clay, and thy foundation is in the Duſt. <hi>Nevertheleſſe man be<g ref="char:EOLhyphen"/>ing in honour abideth not: he is like the beaſts that periſh.</hi> Pſalme 49. verſe 12.</p>
+               <p>The time is comming when delicates ſhall not be delightfull, life ſhall not be deſirable, pleaſure ſhall be painefull, Riches unprofitable, death una<g ref="char:EOLhyphen"/>voydable, and eternity moſt terrible: when thou ſhalt finde evidences enough for earth, but no aſ<g ref="char:EOLhyphen"/>ſurance for Heaven: then it may be thou wouldſt give ten thouſand pounds for a ſhare in Jeſus Chriſt, but Jeſus Chriſt makes no ſuch bargaine. <hi>Dives</hi> had not been in Hell, if his money would have purchaſt heaven: but then thy Riches ſhall take to themſelves wings and flye away: thou knoweſt not how ſoone thou mayeſt come to thy
+<pb n="49" facs="tcp:34059:35"/>journeyes end; when thou ſhalt bee depoſed from thy glory like <hi>Nebuchadnezar, Dan.</hi> 4 30. or ſlaine in the midſt of thy gold and mirth, like drunken <hi>Belſhazzer,</hi> or lye in the cold like poore <hi>Lazarus,</hi> or bee kickt into Hell like rich <hi>Dives;</hi> go view the Monuments of thy Fathers: where lyes the Crowne of <hi>Shyhon,</hi> King of the Amo<g ref="char:EOLhyphen"/>rices, and <hi>Ogge</hi> the King of Baſhan? Where bee the Perizites, the Jebuſites, or the Children of the Eaſt, or <hi>Zeba,</hi> or <hi>Zelmunna?</hi> Where is the Tower of Babylon, the (ſometimes) glorious Caanan, the wavering Aegyptians, the warlick Philiſtines? Doe not they ſleepe in the duſt? Thou knoweſt not how ſoone thou mayeſt bee gathered to thy Fathers.</p>
+               <p>The Earth in the Spring time puts on her man<g ref="char:EOLhyphen"/>tle of greene to entertaine her Lover <hi>Phoebus;</hi> but when the golden Chariot of the Sunne is fled to the Southerne World, the Earth puts on her mourning withered weede, the Moone ſhines fairely for ſome certaine nights; but when time hath turned her from her ſilver throne; ſhee re<g ref="char:EOLhyphen"/>ſignes her glory to the following day: The blaz<g ref="char:EOLhyphen"/>ing candle for a time ſhines cleare, but having paſt the age of a ſhort lived houre, it glimmers a while and dyes; the glorious Lilly that is dreſt in ſuch bravery, is in a day diſroabed of its glory, and tur<g ref="char:EOLhyphen"/>ned to withered Hay; there is no ſuch thing as a
+<pb n="50" facs="tcp:34059:36"/>continuance heere, though thou flour<gap reason="illegible" resp="#UOM" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="2 words">
+                     <desc>〈◊◊〉</desc>
+                  </gap> greene Bay-tree, yet thou ſhalt periſh like a wi<g ref="char:EOLhyphen"/>thered weede.</p>
+               <q>
+                  <hi>For evill doers ſhall bee cut off: but thoſe that waite upon the Lord, they ſhall inherite the Earth. For yet a little while, and the wicked ſhall not bee: yea thou ſhalt diligently conſider his place, and it ſhall not be.</hi> 
+                  <bibl>Pſ. 37. v. 9.10.</bibl>
+               </q>
+               <p>Eightly, the hypocrite is a barren branch.</p>
+               <p>Go march among thy fellowes painted earth, and then ſometimes retreate, and yet march on a<g ref="char:EOLhyphen"/>gaine, thou lookeſt indeede to Heaven, but thou travelleſt to Hell: Go on, yet know falſe <hi>Abſolon,</hi> 'tis not thy beauty that can ſave thee; no, <hi>Judas,</hi> 'tis not a diſſembling kiſſe ſhall ſecure thee; no, <hi>Simon Magus,</hi> 'tis not thy money ſhall redeeme thee, thou art as various as the windes, as diſſem<g ref="char:EOLhyphen"/>bling as the ſeas, as deceitfull as the grave, as darke as hell, as vile as villany, as graceleſſe as im<g ref="char:EOLhyphen"/>purity, and as black as horrour can ſee it ſelfe in the blackeſt glaſſe: Thou waſheſt thy hands in<g ref="char:EOLhyphen"/>deed, but thy heart is defiled, thou trimmeſt thy bo<g ref="char:EOLhyphen"/>dy, but thy ſoule is deformed, honey indeede is in thy lips, but thy tongue is poyſoned; well, foole thy ſelfe no more, though thou doeſt blinde the World, thou canſt not hide thy ſelfe from Heaven.
+<pb n="51" facs="tcp:34059:36"/>Pſalm. 94.8.9.10. <hi>Hee that planted the eare, ſhall hee not heare? Hee that formed the eye, ſhall hee not ſee? Oh yee fooles when will yee bee wiſe? Hee that teacheth man knowledge, ſhall hee not know?</hi> Though thou haſt the ſpeech of <hi>Jacob,</hi> thou haſt the hands of <hi>Eſau,</hi> thou haſt the devo<g ref="char:EOLhyphen"/>tion of <hi>Abel,</hi> but the diſſimulation of <hi>Achitophel,</hi> the mantle of <hi>Elias,</hi> but the hypocriſie of <hi>Judas,</hi> thou haſt fidelity in thy wordes, but impurity in thy deeds, a heaven in thy mouth, but a hell in thy heart, and though thou do'ſt proſper while blin<g ref="char:EOLhyphen"/>ded man adores thee, yet thou ſhalt periſh when God ſhall come to judge thee: It is not thy ſmooth language, nor thy Syrean tongue can take in Heavens eares; no, 'tis not a painted face, nor a garment of gold that dazeleth Chriſts eyes, that did delude the yong man, that <hi>Solomon</hi> entitles foole, <hi>Prov.</hi> 7 <hi>verſ.</hi> 8. 'Tis thy heart that God pondereth and as the Sunne of Heaven will ſhow, thee the fouleneſſe of the houſe; ſo the Sonne of glory with his all deſcerning eye, will ſoone diſ<g ref="char:EOLhyphen"/>cover the blackneſſe of the heart, though to the world thou ſeemeſt a piece of purity, a flaſh of fidelity a gloriou ſtar, a glittring ſpheare; yet to Heavens eye thou wilt appeare but an Heire of Hell, a childe of darkeneſſe, a ſervant of ſinne, a ſonne of ſhame; and thou that haſt ſo often de<g ref="char:EOLhyphen"/>luded others in thy life, ſhalt deceive thy ſelf at
+<pb n="52" facs="tcp:34059:37"/>thy death, and thy departing ſoule ſhall but ex<g ref="char:EOLhyphen"/>change miſery for mortallity, though (by thy actions) the deluded world ſhall thinke thou art tranſported into glory.</p>
+               <p>And ſhall our ſtory have a period heere? And ſhall wee vaile our ſubject with a blanck? Shall wee preſent to the Reader the black and darke night, and draw a Curtaine before the ſhining day? Shall wee diſcover the barren branches that are in the Vineyard, and wrap a black cloud about the lofty flouriſht Vine? No, though many have the marke of the Beaſt, yet ſome are loyall to the Lambe, though there bee thouſands doe bow their knees to Baall: Yet there is a remnant doe hum<g ref="char:EOLhyphen"/>ble their hearts to heaven, though there bee a ſeed of falling <hi>Adam,</hi> yet there is a generation of faithfull <hi>Abraham,</hi> though many are not Iſraelits, yet all are not Sodomites; among the thouſands that ſhall periſh, there is a remnant that ſhall flou<g ref="char:EOLhyphen"/>riſh, whoſe united beauty ſhall make one glorious body: And this is ſhee that looketh forth as the Morning, faire as the Moone, cleare as the Sunne, terrible as an Army with Banners, <hi>Cantie.</hi> 6. <hi>verſ.</hi> 10. whoſe heroicke heads looke higher then this inferior World, who are not drowned in the dirt of earth, but watered with the dew of Hea<g ref="char:EOLhyphen"/>ven, who are not branches of infamy, but cluſters layd up to inherite glory: And indeed believer<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="53" facs="tcp:34059:37"/>you have done well while you have made ſo faire a choyce, though you ſuffer here a little paine, hereafter you ſhall have endleſſe pleaſure, though ye have had a time of heavineſſe, ye ſhall have heereafter eternall happyneſſe, though ye have had tokens of infamy, yee ſhall bee adorned with Robes of glory, though you have beene acquain<g ref="char:EOLhyphen"/>ted with the terrour of the Croſſe, yee ſhall bee required with the glory of the Crowne: Alas, how momentany are the pleaſures of the World? What is heere to bee deſired? Nay, rather what is there not heere that may well be quickly loath<g ref="char:EOLhyphen"/>ed? Is it honour? That is but a blaſt that will deceive thee: Is it dignity? That is but a dreame that will delude thee: Is it beauty? That is but a shaddow that will inſlave thee; Is it credit? That is but flattery that will befoole thee: Is it wealth? That will take wings and quickly flye from thee.</p>
+               <q>
+                  <hi>Come then let us get up early in the Vine<g ref="char:EOLhyphen"/>yards: Let us ſee if the Vine flouriſh, if the tender Grapes appeare, or the Pomgranats bud forth.</hi> 
+                  <bibl>Can. 2.</bibl>
+               </q>
+               <p>I am ſure if the hand that planted you did not protect you, your fruit would bee blaſted, and
+<pb n="54" facs="tcp:34059:38"/>your bloſſome would bee withered: How ſoone would your honour turne to diſgrace, your credit to ſhame, your beauty into vanity, your affection to deluſion, your winde of wealth to a weather<g ref="char:EOLhyphen"/>cock of woe, your full ſea of plenty to an ebbing tide of poverty? Did not the Vine flouriſh? How ſoone would you poore branches periſh? Did not the head finde power to ſtand, how ſoone would you the weaker members fall?</p>
+               <p>I thinke the World can better ſubſiſt without the Sunne, then you without a Saviour; if the Sunne were gone, would not the forſaken Uni<g ref="char:EOLhyphen"/>verſe put on a mantle of mourning? Would not the World returne to her firſt confuſed Chaos? Would not all our Chariot wheeles drive on hea<g ref="char:EOLhyphen"/>vily? Would not our actions proſper ſlowly? The Philoſophers ſay wee are beholding to the Sunne for all ſecondary cauſes: and Divines af<g ref="char:EOLhyphen"/>firme wee are ingaged to our Saviour for his ſe<g ref="char:EOLhyphen"/>cret cares, while you bring forth the fruits of the ſpirit, which is not Rebellion, but Humiliation, not expreſſions, but Actions, not Chaffe, but Wheate, not Pibbles, but Pearles, not Leaves, but Fruit, not Droſſe, but Gold: I meane Unity, Fi<g ref="char:EOLhyphen"/>delity, Meekeneſſe, long ſuffering, Patience, and Perſeverance; ye ſhall have a ſhield to ſave you, a chamber to hide you, an arme to protect you, a Fountaine to coole you, and a Rock to over<g ref="char:EOLhyphen"/>ſhaddow
+<pb n="55" facs="tcp:34059:38"/>ſhaddow you, and a Pillar of fire to guide you while you travell through the vally of the ſhad<g ref="char:EOLhyphen"/>dow of death, and while you are ſayling through the red ſea of ſorrow.</p>
+               <q>
+                  <hi>In that day, ſing yee unto her: A Vine<g ref="char:EOLhyphen"/>yard of red Wine. I the Lord doe keepe it; I will water it every morning, leſt any hurt it, I will keepe it night and day.</hi> 
+                  <bibl>Iſa. 27. v. 2, 3.</bibl>
+               </q>
+               <p>Thus were you not protected alas, how ſoone would you bee deſtroyed? How weake would bee your ſtrength? How ſtrong your weakeneſſe? How ſoone would your perſons bee abuſed, your ſence deceived, your wills corrupted, your appre<g ref="char:EOLhyphen"/>henſions deluded, your conſtancy contemned, and your fidelity befooled?</p>
+               <p>But now had I a quill ſnatcht from the lofty Eagles wings, or were my inke diſtilled from Gold; had I the Curioſity of <hi>Cleo,</hi> the Learning of <hi>Plato,</hi> the Poetry of <hi>Apollo,</hi> the Eloquence of <hi>Cicero,</hi> or the Love of Queene <hi>Dido:</hi> I ſhould rather darken their Dignity, then illuſtrate their Royalty.</p>
+               <p>I thinke Readers I muſt deceive you all, and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hut the Booke, and make an end of my ſubject; For hee that will ſpeake of the worth of a Picture
+<pb n="56" facs="tcp:34059:39"/>muſt himſelfe bee a Painter; ſo hee that will diſ<g ref="char:EOLhyphen"/>courſe of the Saints dignity, muſt himſelfe bee wrapt firſt in the Pallace of high glory; this one<g ref="char:EOLhyphen"/>ly may ſuffice, they ſhall have wealth without want, pu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ity without perjury, health without ſickneſſe, wiſdome without folly, life without mortallity, there ſhall they have eternity for time, glo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y for indignity, a Crowne for a Croſſe, and a Kingdome with a Crowne: But ſince the heart is too narrow to conceive it, it is unlawfull for the tongue to utter it, 2 <hi>Cor.</hi> 12. <hi>ver.</hi> 4.</p>
+               <p>Thus are wee forced to draw a Curtaine about our ſubject and hide our glorious ſceane, and be<g ref="char:EOLhyphen"/>cauſe wee dare not ſpeake of ſuch a price, ſilence ſhall now bee the Epilogue of the Play.</p>
+               <p>How lovely lookt the Sonne of Glory in our tereſtiall ſpheare, earth was too unworthy to bee poſſeſt of ſuch a glorious gueſt, how powerfull was that tongue, that with a ſhort command could diſ<g ref="char:EOLhyphen"/>poſſeſſe the divel, &amp; make his enemies in a moment drop downe and dye, that could give feete to the lame, eyes to the blinde, health to the ſick, ſalvati<g ref="char:EOLhyphen"/>on to ſinners, and life to death? How did his lips out paſſe the ſweete lipt orator, while in ſundry places hee poured forth the ſweeteſt words that Art or Love could frame, enough to melt the be<g ref="char:EOLhyphen"/>holders hearts and charme the hearers eares? How full of ſweetneſſe is that boſome that was woun<g ref="char:EOLhyphen"/>ded
+<pb n="57" facs="tcp:34059:39"/>with a ſpeare; I thinke Love lay there in<g ref="char:EOLhyphen"/>tomb'd, having power enough to bring the loſt ſoule to ſeeke for ſanctuary in his circled armes: how full of comlineſſe was that face that ſo often was hit with the blowes of ſcorne, and flurts of diſdaine? that head, the fountaine of knowledge, that was crowned with the thornes, had power enough, by wiſedome, to controle the world. How full of Majeſty were thoſe faire eyes that ſo often were drowned in ſilent teares?</p>
+               <p>Had the ungratefull world no better entertain<g ref="char:EOLhyphen"/>ment for ſo Royall a babe, but muſt mantle him in a Manger, and from his Cradle hurry him to his Croſſe. Ah man! how obdurate was thy heart to him that was as kinde as heaven: well mayeſt thou caſt duſt on thy head ſince thou art ſo foule in thy heart: goe, weep thy ſelfe away: goe, goe, be ſad all mortalls; let your downe eaſt eyes pre<g ref="char:EOLhyphen"/>ſent a ſilent ſorrow; let your dayes be as darke as the ſilent grave, as when the eclipſed Sunne leaves the world in a miſt, or the angry aire covers hea<g ref="char:EOLhyphen"/>vens glory in a ſable Cloud: let every mortall mourn, and be like a monument cut out of marble.</p>
+               <p>But is it ſo, that Jeſus Chriſt is the Vine, and that ſo many of the branches ſhall be cut off? then our ſubject ſounds an alarum in the eares of all mortals, and bids the Inhabitants of the world looke about them: Is it ſo that none but the in<g ref="char:EOLhyphen"/>grafted
+<pb n="58" facs="tcp:34059:40"/>Members ſhall ſtand, and the others fall? then this tels us that your condition is not ſo good as you imagine: If thoſe that ſeeme to be Mem<g ref="char:EOLhyphen"/>bers ſhall be cut away, what ſhall be done to them that are enemies to the body? if ſome of the branches ſhall fall that grow on the Vine, what ſhall become of them that come not neare the Vineyard?</p>
+               <p>How hath the Prince of darkneſſe beſotted all Mortalls? how is poore man befooled? perhaps thou meaſureſt by another man, and thou art high<g ref="char:EOLhyphen"/>er by the head and ſhoulders; and thou thinkeſt God muſt love thee, becauſe of thy perſon: King <hi>Saul</hi> was higher then all his brethren, yet little <hi>David</hi> was advanced to the Crowne, and he was flung from the Throne. Perhaps thou art a Scho<g ref="char:EOLhyphen"/>lar, and for thy wiſedome and learning thou thin<g ref="char:EOLhyphen"/>keſt God muſt love thee, and thou muſt needs be a branch in the Vine: I tell thee thy wit is but like a ſharpe Raſor; when God ſhall come, and ſet thy wit to gnaw on thy accuſed Conſcience: Oh the anguiſh of thy ſoule! in that day there is no ſuch torment as a ſharpe with will inflict upon it ſelfe.</p>
+               <p>Perhaps thou art a rich man, and thou thinkeſt God muſt needs love thee becauſe of thy Riches, and ingraft thee in the Vine: no, I tell thee, Jeſus Chriſt can paſſe by all the Kings Courts, and the
+<pb n="59" facs="tcp:34059:40"/>Princes Palaces, and enter in the houſe of poore <hi>Martha,</hi> and be a companion for <hi>Lazarus</hi> that had nothing to entertaine him: If Chriſt had been taken with gold, he could have planted his Vine<g ref="char:EOLhyphen"/>yard among the Indies where his Temple might have been all dawbed with gold.</p>
+               <p>Perhaps thou art beautifull, and thou thinkeſt Heaven muſt love thee becauſe thou art lovely: Beleeve me, that will wither away when ſickneſſe with her afly hand ſhall ſweep off thy colour, thou ſhalt reſemble earth: though thou art like <hi>Jezebell,</hi> death will pluck thy feathers, and thou ſhalt be baniſht to the Grave, and call the worme thy ſiſter and thy Brother.</p>
+               <p>Therefore if thou haſt any excellency in thee, or parts, it is but cumbred ſtuffe, and the harder it is to pull thee into heaven; God muſt be faine to take more paines with thee, then with a poore creature that hath nothing to boaſt of: every ex<g ref="char:EOLhyphen"/>ternall part thou haſt is but a block to lye in thy way, and thou muſt leave them behinde thee, or thou wilt never crowd through the ſtraight Gate.</p>
+               <p>Thy table thats a ſnare to thee, while ſome<g ref="char:EOLhyphen"/>times thou eateſt more then does thee good.</p>
+               <p>Thy gold, thats a ſnare to thee, while thou ſet<g ref="char:EOLhyphen"/>teſt thy heart upon it, and forgetteſt Heaven.</p>
+               <p>Thy portly body, thou mayſt boaſt of it well
+<pb n="60" facs="tcp:34059:41"/>enough, it may be it is all thou art like to enjoy; make much of it, and much good may it doe thee. Thy wiſedome is but a puffe of pride: and the more learning thou haſt, the more mad thou art.</p>
+               <p>Therefore ſince there is no ability in man to gaine immortallity; let this ſummon in the great and mighty men of the world; let them ſit under the ſhaddow of the Vine, and eate his pleaſant fruit. <hi>Objection.</hi> But it may be ſaid, this ſeemes to be falſe you talke all this while; we ſee no glo<g ref="char:EOLhyphen"/>ry in the Vineyard, nor taſte no ſweetneſſe in the Vine: wherein is his fruit ſo pleaſant?</p>
+               <p>
+                  <hi>Anſwer,</hi> I will tell you in foure particulars.</p>
+               <p>Firſt, his fruit of humiliation, that is pleaſant fruit, this will adorne thee with ſuch amorons graces, that thou ſhalt paſſe by the flurts of the World with a gallant ſcorne, yet knowing ſinne to bee the Authour of thy ſhame, thou ſhalt of<g ref="char:EOLhyphen"/>ten inbalme thy ſelfe in teares.</p>
+               <p>Secondly, his fruits of meekeneſſe, that is plea<g ref="char:EOLhyphen"/>ſant fruit; thy crooked nature now (it may bee) admits of no ſecond but thy ſword, thou art now but a word and a blow, thy heart is like a tinder box, the leaſt ſparke of envy will burne to a migh<g ref="char:EOLhyphen"/>ty flame; but then thou ſhalt ſtand as a marble pillar immovable; the envy of thine enemies ſhall not trouble thee; the frownes of thy friends ſhall
+<pb n="61" facs="tcp:34059:41"/>not ſtartle thee; the principalities of hel shal not have power to shake thee; the worlds diſdaine shall be thy dignity, their infamy thy glory, their hate shal inflame thy fire of love, and their re<g ref="char:EOLhyphen"/>proaches ſhal fil thy mouth with praiſes: nor wilt thou regard the moſt grievous paine, while thou art running to ſo glorious a prize.</p>
+               <p>Thirdly, this fruit of love is very pleaſant fruit: all the mountaines of miſery thou ſuffereſt when they are drowned in the Sea of love, will appeare but like Attomes in the Aire, when love shal cover thee under the shaddow of his wings, when thou shalt ſee how deare thou art in heavens eyes, that he did not onely give <hi>Ethiopia</hi> but his owne life to the Father for thee: what wouldeſt thou not endure for the love of ſuch a Saviour? does he ſuffer hell to purſue thee? it is becauſe thou shouldeſt preſſe forward to heaven, which is ſet before thee: is thy journey tedious in the beginning? it is becauſe thou shouldſt long to be at thy journeys end: and wilt thou not run when thy Race is onely to life, and thy companion love? and wilt thou not deſpiſe any worldly loſſe, when thou shalt be treble sharer in eternal glory, and in<g ref="char:EOLhyphen"/>herit immortall gaine?</p>
+               <p>Fourthly, his fruits of patience, and perſeve<g ref="char:EOLhyphen"/>rance are pleaſant fruit: now a few diſcourage<g ref="char:EOLhyphen"/>ments will daunt thee, then thou shalt be willing
+<pb n="62" facs="tcp:34059:42"/>to undergoe a thouſand dangers every day: now if thou receiveſt not what thou didſt aske, thou art ready to give over asking: if God openeth not at the firſt, thou art ready to give over knock<g ref="char:EOLhyphen"/>ing: and if thou findeſt not what thou didſt ſeek, thou art ſoone perſwaded to give over ſeeking: But then thou shalt wait with as much patience as the poore watchman that ſtands upon the Tower, expecting the dawning of the day, till the pan<g ref="char:EOLhyphen"/>ting horſes of time have finisht their journey, and ended their tired task: then shalt thou receive the fruit of thy faith, and Heaven shall crowne thy labours of love with undiſturbed reſt.</p>
+               <p>Awake then, Oh North winde, and come thou South: let the Inhabitants draw neare, let them come into our garden, let them taſte the fruit of Faith, let them bee drunke with the Wine of love.</p>
+               <q>
+                  <hi>Eate, O friends, drinke, yea, drinke abun<g ref="char:EOLhyphen"/>dantly. O beloved!</hi> 
+                  <bibl>Canticles 5. verſe 1.</bibl>
+               </q>
+               <p>Come take his fruit of Juſtification, that juſtice may not condemn thee: take his fruit of Redem<g ref="char:EOLhyphen"/>ption, that hell may not devoure thee: take his fruit of ſanctification, that ſinne may not deceive thee: take his fruit of glorification, that happi<g ref="char:EOLhyphen"/>neſſe may crowne thee.</p>
+               <pb n="63" facs="tcp:34059:42"/>
+               <p>Art thou hungry? Hee is food to ſuffice thee: Art thou thirſty? Hee is water to refreſh thee: Art thou naked? Hee is a garment to cloath thee: Art thou cold? Hee is a fire to warme thee: Art thou ſcorched with heate? Hee is a Rock to ſhel<g ref="char:EOLhyphen"/>ter thee, Art thou in ſickneſſe? Hee is a Doctour to heale thee: Art thou alone? Hee is a friend will not forſake thee: Art thou in danger? His arme ſhall protect thee: Does the plague walke in darkeneſſe? Hee is a chamber to hide thee, does the arrowes of the Almighty flye at noone day? his wings ſhall overſhadow thee; Art thou poore? Hee hath layd up treaſure to inrich thee: Art thou diſgraced? Hee will Crowne thee with a Crowne of Glory.</p>
+               <p>And now Reader mayeſt thou imbalme the Booke in teares, if thou conſidereſt the miſery of man, and how the World does lye befooled: What horrid Earthquake is this that ſhakes the foundation of our troubled World? What black cloud hath overſpread our Univerſe, and begins to murmure in our whiſpering aire, eclipſing the light of Divinity, extinguiſhing the Lamps of purity, and endeavouring to darken the ſonne of glory, making poore ignorant mortalls g<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ope all their lives time in the darke, and yet ſhall never finde the doore? How happy are thoſe priety babes (who with a little flood of teares, be waile<g ref="char:EOLhyphen"/>ing
+<pb n="64" facs="tcp:34059:43"/>the miſery of mortallity) dye in their ſlum<g ref="char:EOLhyphen"/>bring Nurſes armees? Sure it were happy for the wicked, if they meaſured but a ſhort lived houre betweene the Wombe and the Grave, for not be<g ref="char:EOLhyphen"/>ing found in the Vneyard, they ſhall have no ſhare in the Vine, and bearing no fruit as the Corne, they ſhall bee burned with the Chaffe: But thou for a few evills on earth ſhalt bee rewarded in Heaven; thou ſhalt ſet thy foot upon the Adder, and tread upon the yong Lyon; for thou ſhalt bee hid in the ſecret places of the Almighty, and under the ſhaddow of the wings of the moſt high; thou ſhalt bee free from the dominion of ſinne, and thou ſhalt conquer Sathan, thou ſhalt over<g ref="char:EOLhyphen"/>come Principalities and Powers, and thou ſhalt gaine by life and death: And hee whoſe undiſ<g ref="char:EOLhyphen"/>covered actions are too deepe for our dim eyes, ſhall beare thee on his wings through deaths darke Groves, and lift thee to life eternall, while the wicked that now does flouriſh like a greene Bay, ſhall periſh ere long like a blowne off bloſſome, and hee that is a shining flash, shall wither like a dying Flower.</p>
+               <div type="section">
+                  <pb n="65" facs="tcp:34059:43"/>
+                  <epigraph>
+                     <q>
+                        <hi>All fleſh is as graſſe, and all the glory of man as the flowre of graſſe.</hi> 
+                        <bibl>1 Pet. 1. v. 24.</bibl>
+                     </q>
+                  </epigraph>
+                  <sp>
+                     <speaker>Man.</speaker>
+                     <lg>
+                        <l>
+                           <hi>STay</hi> Phoebus, <hi>ſtay: Oh wherefore doſt thou run</hi>
+                        </l>
+                        <l>
+                           <hi>So faſt? the ſhades will come too ſoone:</hi>
+                        </l>
+                        <l>
+                           <hi>Hold in, hold in thy horſes, their noſtrills boyle</hi>
+                        </l>
+                        <l>
+                           <hi>In flames; Oh let them reſt a while!</hi>
+                        </l>
+                        <l>
+                           <hi>Stop thy bright Chariot wheeles, and guild the day</hi>
+                        </l>
+                        <l>
+                           <hi>In glorious pride: why doſt thou haſte away,</hi>
+                        </l>
+                        <l>
+                           <hi>Into the weſtern world? ſtay gentle</hi> Phoebus, <hi>ſtay.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Phoebus.</speaker>
+                     <lg>
+                        <l>Jove <hi>lend me a breath of thunder, that my flaſhes</hi>
+                        </l>
+                        <l>
+                           <hi>May mingle terrour with my laſhes:</hi>
+                        </l>
+                        <l>
+                           <hi>My pampred horſes linger out the day:</hi>
+                        </l>
+                        <l>
+                           <hi>I ſurfeit with too long delay.</hi>
+                        </l>
+                        <l>
+                           <hi>Fond man thou fear'ſt to die, and oft doſt groane</hi>
+                        </l>
+                        <l>
+                           <hi>To live, and blameſt onely time alone:</hi>
+                        </l>
+                        <l>
+                           <hi>Come guide my winged houres, and hurle me from my throne.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Man.</speaker>
+                     <lg>
+                        <l>
+                           <hi>Why was I borne? or being borne, Oh why</hi>
+                        </l>
+                        <pb n="66" facs="tcp:34059:44"/>
+                        <l>
+                           <hi>Did I not weep one houre and die?</hi>
+                        </l>
+                        <l>
+                           <hi>Ah me!</hi>
+                        </l>
+                        <l>
+                           <hi>What torments doe attend us while we ſee</hi>
+                        </l>
+                        <l>
+                           <hi>The Sun? how ſhort a time have we!</hi>
+                        </l>
+                        <l>Phoebus, <hi>although thy Chariot makes away</hi>
+                        </l>
+                        <l>
+                           <hi>So faſt, and will admit of no delay:</hi>
+                        </l>
+                        <l>
+                           <hi>Yet lend more hours to the year, or minutes to the day</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Death.</speaker>
+                     <lg>
+                        <l>
+                           <hi>Drive on dull</hi> Phoebus, <hi>drive away! my bow</hi>
+                        </l>
+                        <l>
+                           <hi>Is bent: and thou doſt flye too ſlow:</hi>
+                        </l>
+                        <l>
+                           <hi>Drive on againe, or by my unknowne power,</hi>
+                        </l>
+                        <l>
+                           <hi>Ile blaſt the glory of this flower.</hi>
+                        </l>
+                        <l>Time. <hi>Stay death, thou cauſt not ſtrike the blow til I</hi>
+                        </l>
+                        <l>
+                           <hi>Shall ſay amen</hi> [Death] <hi>Yes</hi> Phoebus <hi>if thou hie</hi>
+                        </l>
+                        <l>
+                           <hi>Thee not away, this Lamp ſhall ſoone drop downe and die.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Time.</speaker>
+                     <lg>
+                        <l>
+                           <hi>Black monarch of the ſhades, curb in thy heeles</hi>
+                        </l>
+                        <l>
+                           <hi>Awhile; attend my Chariot wheeles,</hi>
+                        </l>
+                        <l>Death. <hi>I cannot, for thy beames are too too high:</hi>
+                        </l>
+                        <l>
+                           <hi>The ſhades adorne my blacke browd eye:</hi>
+                        </l>
+                        <l>
+                           <hi>Ile cut this flower away and then retire</hi>
+                        </l>
+                        <l>
+                           <hi>To the dark groves.</hi> [Time] <hi>wherefore doſt thou de<g ref="char:EOLhyphen"/>ſire</hi>
+                        </l>
+                        <l>
+                           <hi>To eclipſe ſo bright a ſtar, and quench ſo fair a fire.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <pb n="67" facs="tcp:34059:44"/>
+                  <sp>
+                     <speaker>Death.</speaker>
+                     <lg>
+                        <l>
+                           <hi>Thy glaſſe exceeds her hower, it ha's too long</hi>
+                        </l>
+                        <l>
+                           <hi>To run: thou doſt me too much wrong:</hi>
+                        </l>
+                        <l>
+                           <hi>Ile ſtrike the blow</hi> [Time.] <hi>Cut not this flowre a<g ref="char:EOLhyphen"/>way,</hi>
+                        </l>
+                        <l>
+                           <hi>For as I am the god of day,</hi>
+                        </l>
+                        <l>
+                           <hi>And ſonne to high borne</hi> Jove <hi>who taught me how</hi>
+                        </l>
+                        <l>
+                           <hi>To guide my wandring Orb, I'le make thee bow</hi>
+                        </l>
+                        <l>
+                           <hi>Thy Pride, when next thou furroweſt up our brow.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Time.</speaker>
+                     <lg>
+                        <l>
+                           <hi>Poore man thy time is ſhort indeed: alas,</hi>
+                        </l>
+                        <l>
+                           <hi>There's but a little in thy Glaſſe:</hi>
+                        </l>
+                        <l>
+                           <hi>But yet thou ſhalt not dye awhit, before</hi>
+                        </l>
+                        <l>
+                           <hi>'Tis out, nor live a minute more:</hi>
+                        </l>
+                        <l>
+                           <hi>My fiery horſe are hot, and wondrous proud;</hi>
+                        </l>
+                        <l>
+                           <hi>I can ſcarce rule the Reines, but muſt go ſhrowd</hi>
+                        </l>
+                        <l>
+                           <hi>My head, and leave thee wrapt within a ſable cloud.</hi>
+                        </l>
+                     </lg>
+                  </sp>
+               </div>
+            </div>
+            <div n="6" type="soliloquy">
+               <pb n="68" facs="tcp:34059:45"/>
+               <head>The ſixth SOLILOQUIE.</head>
+               <p>COme huffling galla<g ref="char:cmbAbbrStroke">̄</g>ts of the times, draw near, lay downe your ſallow Garlands by you, and the thing you call honour, and let your eyes be<g ref="char:EOLhyphen"/>hold our ſubject, let it pull downe your imperi<g ref="char:EOLhyphen"/>ous necks, and ſtrike your top ſailes: let it give to vertue conſtancy, to prophaneſſe penitency, to the proud man humility: But gallants you are not ſad, me thinks, you looke too well, as if you ſhould live eternally on earth, or had an everlaſt<g ref="char:EOLhyphen"/>ing inheritance in Heaven, as if you could co<g ref="char:cmbAbbrStroke">̄</g>mand the horſes of Time, or ſtop the golden Chariot of the day: what comlineſſe is in your ſpots of complexion? what righteouſneſſe in your choiceſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Recreation? what goodneſſe is in the great mans gallantry? what beauty in the proud mans brave<g ref="char:EOLhyphen"/>ry? what glory in the Covetous mans gold? o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> what great ratity in the ſpend thrifts prodigality how wavering are your words? how deluding are your deeds? how diſloyall is your love? how inconſtant is your care? how weake are your de<g ref="char:EOLhyphen"/>ſires to Heaven? how ſtrong doe you doat upon the earth? how poore is your evidence of im<g ref="char:EOLhyphen"/>mortality?
+<pb facs="tcp:34059:45"/>yet how richly doe you flouriſh in the garbe of worlds glory? And yet poore man, what art thou? but a walking shaddow, a piece of movi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g earth, a gliding flash, a blaſted flower, an inch of mortality that art travelling to eternity, whoſe wiſedome is but folly, whoſe ſtrength is inability, whoſe grace is impurity, whoſe comli<g ref="char:EOLhyphen"/>neſſe deformity, whoſe ſubſtance is ſinne, whoſe glory is thy shame: take man in his beſt time, and he is but a piece of vanity: looke on him in a full Sea of plenty, or an ebbing tide of poverty, in the bloome of age, or the bloſſome of youth, and this piece of earth is but a debter to Heaven, and this handfull of duſt hath but a handfull of daies, in which he is as reſtleſſe as the Sunne, as various as the Moone, as wavering as the windes, as unconſtant as the Cloudes, as diſſembling as the Seas, as foule as earth, as flaſhy as the fire, and as fickle as the Aire; and having acted his part upon this tranſitory ſtage, death ſtrikes the Epilogue, and the play is done; and notwithſtanding all his dignity, he muſt lye downe and dye: <hi>For all fleſh is graſſe, and the glory of man but as the flowre of graſſe.</hi>
+               </p>
+               <p>Ladies (for in your Ivory hands my Booke may ſometimes be:) here's a glaſſe for you, not to repreſent your beauty, but to diſcover your frail<g ref="char:EOLhyphen"/>ty,
+<pb facs="tcp:34059:46"/>not to ſhew you how to deck your heads, but to tell you how to adorne your hearts, not to learne ye how in curioſity to ſet your imbroydred haires, but in true penitency how to drown your wanton eyes: What mean's your cloathes per<g ref="char:EOLhyphen"/>fumed with ſo many ſavours, your Apothecaries ſhop of ſundry ſalves, your new ſangled brave<g ref="char:EOLhyphen"/>ries you boxes of beauties, your wavering affe<g ref="char:EOLhyphen"/>ctions, your wanton Recreations? look in your glaſſe, ſee if pride be not inthroned on your ma<g ref="char:EOLhyphen"/>jeſtick browes, and if your bravery be ſet off with any thing elſe but vanity: tis only vanity and no<g ref="char:EOLhyphen"/>thing elſe but vanity which dances upon your plumes, as your feathers fanne the aire: What will you doe when death ſhall ſummon you to e<g ref="char:EOLhyphen"/>ternity, when ſickneſſe with her aſhy hand ſhall ſweep the colour from your cheeks? when your ſtript off bravery ſhall diſcover your deformity, and you ſhall reſemble earth; when you ſhall lay downe your ornaments of beauty by you, when the diſmall Ew, and the flattring Ivy ſhall grow about your graves, and Time ſhall puſſe away the remembrance of your glory.</p>
+               <p>Ladies, did I but know the ſcope of your deſire, as your ſinging Maſter knowes your skill in an aire; I could teach your eyes to weepe faſter then hee your fingers to play, and fit you as well with
+<pb facs="tcp:34059:46"/>a ſight, as the Muſition with a Song; but being a ſtranger to your Sex, I forbeare, onely thus much, bee as vertuous as faire, that you may bee the glo<g ref="char:EOLhyphen"/>ry of our dayes, and that your names may flouriſh in after Ages. Inſtead of love and loves deluſi<g ref="char:EOLhyphen"/>on, go ſpend ſome houres in divine contemplati<g ref="char:EOLhyphen"/>on; inſtead of the Poetry of <hi>Ovid,</hi> read the Piety of <hi>David;</hi> inſtead of the falſeneſſe of beautious <hi>Abſolon,</hi> follow the faithfullneſſe of bleſſed <hi>A<g ref="char:EOLhyphen"/>braham;</hi> inſtead of the love of <hi>Philaſten,</hi> read the life of <hi>Francis Spira;</hi> behold the ruines of <hi>E<g ref="char:EOLhyphen"/>donezedick</hi> King of Jeruſalem, of <hi>Korah, Dathan,</hi> and <hi>Ahiram,</hi> of <hi>Nadab</hi> and <hi>Abihu,</hi> the ſonnes of <hi>Aaron,</hi> of <hi>Hoham</hi> King of Hebron, of acurſed <hi>Miriam,</hi> and Apoſtate <hi>Julian;</hi> theſe had all the glory of nature, and were famous in the World, yet were they loſt in a confuſed Chaos; ſhunne therefore their pride, that yee bee not ruined with their plague; let your love bee without diſloyal<g ref="char:EOLhyphen"/>ty, your faithfullneſſe without formallity, your faſhions without foolery, and your beauty with<g ref="char:EOLhyphen"/>out bravery; ſo ſhall your names flouriſh by the Poets pen, and live till time ſhall bee no more; ſo ſhall yee bee adored for your goodneſſe, more then honoured for your greatneſſe, and famed for your grace, more then feared for your glory; ſo ſhall your inward excellency exceede your out<g ref="char:EOLhyphen"/>ward
+<pb facs="tcp:34059:47"/>bravery, and your perfumed rarities ſmell ſweeter then your Conſerves of Roſes.</p>
+               <p>Come hither deluded Lover, that findeſt no fe<g ref="char:EOLhyphen"/>licity but in thy Miſtreſſe company; and haſt placed thy joyes in thy faire Miſtrefle eyes; that like fooliſh <hi>Paris,</hi> boweſt to the Shrine of <hi>Ve<g ref="char:EOLhyphen"/>nus,</hi> whoſe happyneſſe and life lyes in thy Ladyes love; remember the Peacock hath faire Feathers, but foule feete, the Bee hath Honey by her toyle, but a ſting in her tayle; the fineſt Roſe may have pricks at the ſtalke, and the faireſt Apple may bee rotten at the Core: Nay, though thy Lady may bee civill, worthy, and vertuous; yet time may make her laſcivious, wanton, and various; the faireſt Bloſſome may bee the ſooneſt blaſted, and the ſweeteſt Flower the quicklieſt withered; the bluſtring Windes may ſwell the mightieſt waves, and a glorious Morne may turne a gloomy day.</p>
+               <p>The Philoſophers ſay the life of man is nothing but opinion: Alas, thou doeſt but dreame fond Lover: heere are no hallowed Groves, no faire Elizium walkes, no Palaces of pleaſure, no high borne Imps of honour, no heads archt in Royalty, no beauties deckt in glory: But wanton Cupids morall blaze, which is as a ſhining flaſh, or a ſeeming fire, hot in a minute, and cold in a mo<g ref="char:EOLhyphen"/>ment, which will blaſt thee if thou behold it, and
+<pb facs="tcp:34059:47"/>burne thee if thou come too neare <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> will come when thou ſhall dread that which thou doſt now adore, and loath the thing thou now doſt love; e're long the ſtouteſt heart ſhall bee faint, and the faireſt face begin to waxe pale; then plea<g ref="char:EOLhyphen"/>ſantneſſe ſhall turne peeviſhneſſe, and kindneſſe to coldneſſe; plenty ſhall bee poverty, and beauty deformity: then ſhalt thou behold the rottenneſſe of youth when thou commeſt to the ripeneſſe of age, and ſee the uncertainty of life, when thou re<g ref="char:EOLhyphen"/>ceiveſt the ſummons of death: <hi>For all fleſh is graſſe, and the glory of man but as the flower of graſſe.</hi>
+               </p>
+               <p>And thou fond muckworme, that ſerveſt the gods of gold, what needeſt thou labour for an In<g ref="char:EOLhyphen"/>heritance in earth? Thou haſt too ſurely earth al<g ref="char:EOLhyphen"/>ready, go labour for an Inheritance foole that will not faile thee, leſt either thy Riches flye from thee, or thy Money periſh with thee, leſt the rot take thy heart as the ruſt may eate thy gold, leſt thy poſſeſſion bee made a deſolation, and inſtead of having a Treaſure in Heaven, thou purchaſe with thy Coyne an eternall Tombe in Hell.</p>
+               <p>And likewiſe thou yong man, thy morning is but now riſen (and it promiſes to bee a Sunne<g ref="char:EOLhyphen"/>ſhine day) and thou doeſt not dreame, that <hi>all fleſh is graſſe, and the glory of man but as the flower of
+<pb facs="tcp:34059:48"/>graſſe;</hi> yet flatter not thy ſelfe too fairely, though thou were not ſtrangled in thy Nativity, yet thou mayeſt bee cut off in thy maturity, though thou wert not blowne away in the fondneſſe of thy youth, yet thou mayeſt bee cut off in the fullneſſe of thine age; therefore let this rectifie thy reaſon, and purge thy pollution; let it raiſe thy love, and humble thy heart; thou knoweſt thou ſhalt dye, but thou canſt not tell when, thou art ſure thou ſhalt fall, but thou doeſt not know where: Well, walke ſo on earth that death may conduct thee in<g ref="char:EOLhyphen"/>to Heaven; expect Death every where, but feare it no where, for when thy preſent tenſe ſhall bee made a preterimperfect tenſe, as thou haſt lived holily, ſo ſhalt thou dye happily, and raigne in immortall bleſſedneſſe in the Pallace of high glo<g ref="char:EOLhyphen"/>ry.</p>
+               <p>Tell mee, thou old man (I thinke thou art ac<g ref="char:EOLhyphen"/>quainted well with our ſubject, that <hi>all fleſh is graſſe, and the glory of man but as the flower of graſſe</hi>) what pleaſure hadſt thou in thoſe things whereof thou art now aſhamed? With much paine thou haſt paſt thy pilgrimage, and worne thy wearied dayes: thy life has beene but a longer prologue to an eternall Tragedy.</p>
+               <p>Go look on the Monuments of the old World, old man, and ſee how thoſe mighty ſonnes of <hi>An<g ref="char:EOLhyphen"/>nak</hi>
+                  <pb facs="tcp:34059:48"/>ſleepe in earth? How death has given them their <hi>qu<gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>cus eſt:</hi> In the houſe of darkeneſſe there is no ſtriving for dignities, nor purchaſing of places: An Army of Souldiers that are there cannot march in Battle Ray not in their Warlick Triumphs thunder about their Tombes: The greateſt Merchant when hee takes that houſe hee loſes all; the richeſt Uſurer that was worth thouſands heere, if you go to him there hee has not a penny in his pocket; but is as poore as hee was ſometimes proud: The wiſeſt Lawyer, and the eloquenteſt Oratour, when they come there give over their practiſe, and will plead no more; the Lord is there but a Companion for his Lacky, and the Judge on the Bench ſleepes ſafe with the Priſoner at the Barre.</p>
+               <p>How dolefull (mee thinkes) is the alarum of yonder paſſing Bell, uſhering Deaths Language in every eare: If it goes for an unprepared ſinner, the ſound thereof ſtrikes terrour, the night grows horrible, and every object ſhowes his blacke acti<g ref="char:EOLhyphen"/>ons.</p>
+               <p>Oh the Conſcience of the loſt ſinner, now how is hee hurryed? Now for an houre of life, but it will not bee: Let the ſinner ſee in all his Inven<g ref="char:EOLhyphen"/>tory what will hee prize, or what can give one houre of eaſe? None but Jeſus Chriſt; Alas,
+<pb facs="tcp:34059:49"/>but hee hath no ſhare in him: Unhappy ſoule, how haſt thou ſpent thy time, and worne out thy pretious dayes?</p>
+               <p>Was it in love, thou haſt ſpent thy life? Oh hadſt thou beene acquainted with Heaven, how mighteſt thou have beene ſwallowed in the Sea of love? Tell mee who made the earth ſo full of variety, the Sunne ſo glorious, the Moone ſo beau<g ref="char:EOLhyphen"/>tious? Who made the glittering Starres that aſpire the Olympick Hill, that the lower Orbes might bee relieved by the ſpangled ſpheres, when the Sunne has done the day? Say ſinner muſt not hee that gives beauty to deformity, bee himſelfe much more lovely?</p>
+               <p>Or what? was it profit thou haſt laboured for? what greater profit then to be a Prince? or what higher happineſſe then holineſſe? what greater riches then righteouſneſſe? or what higher gaine then to weare an immortall Crowne?</p>
+               <p>Or was it pleaſure thou haſt ſought after? I thinke the pleaſure of the world is paine: remem<g ref="char:EOLhyphen"/>ber how often thou haſt called thy ſelfe Foole, when thou haſt been retired alone; when thy fan<g ref="char:EOLhyphen"/>cy hath been wearied in folly, and thy Recreation hath gone beyond thy Reaſon? deluded ſoule! what pleaſure is like that which dwells in Para<g ref="char:EOLhyphen"/>dice? in thoſe bleſt Groves which cannot bee
+<pb n="77" facs="tcp:34059:49"/>deſcribed by the pen of the Writer, nor expreſt by the tongue of an Orator; whoſe glory (had any but the Art to paint forth in the language of love) twould leave the writer in a Maze, or ſtrike the Reader dead!</p>
+               <p>But now poore ſoule, in ſeeking the things that are but momentany, thou haſt loſt thy ſelfe eter<g ref="char:EOLhyphen"/>nally: who now can intercede before the im<g ref="char:EOLhyphen"/>mortall throne, that the ſinner may be ſaved? none but Jeſus Chriſt, and alas, the ſoule is not acquainted with him: unhappy ſoule! thou art now ſtruck ſilent, goe, drowne thy cloſed eyes in Teares; lye downe in duſt, forgotten earth, for thou ſhalt riſe no more, till the Axeltrees of the world ſhall begin to flame, and time ſhall breake his Charriot wheeles, till the Heavens ſhall paſſe away with a great noyſe, and the world ſhal ſwel<g ref="char:EOLhyphen"/>ter in flames; then thou among the reſt of thoſe dreadfull Comets appointed for horrour, ſhalt fry for ever in this unquenchable fiery <hi>Chaos.</hi>
+               </p>
+               <p>But here's good newes now for thee that art prepared to dye; thou poore ſoule, that ſtandeſt upon thy watch tower, expecting the dawning of the day; thou ſayeſt my Love, he dwells in Heaven, that hath Captivated my heart with the glory of his Graces, before whom I offer up my hourly oblations, with ſilent teares from theſe my
+<pb n="78" facs="tcp:34059:50"/>weeping eyes: but ſure he regards me not, but leaves me here as a monument of miſery, or an ob<g ref="char:EOLhyphen"/>ject of the worlds ſoorne: remember poore ſoule, <hi>All fleſh is graſſe,</hi> and graſſe you know hath no long continuance on the ground; believe me thou ſhalt ſhortly goe: thou mayſt heare thy beloved almoſt every day, telling thee thy time is but ſhort, and thou ſhalt ere long be tranſpo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ted to e<g ref="char:EOLhyphen"/>ternity: thou mayeſt heare his ſweet voice to charme thine eares, though thou canſt not ſee his face to wound thy heart: thou receiveſt love-Letters from him, but yet thou canſt not ſee him; for this wall of fleſh doth ſtand between, but ere long it ſhall be taken downe, that you may enter together in Communion, and talke of the time of trouble, that you may inherit eternall joyes, while your eyes ſhoot equall flames that you may raviſh in the ſweeteſt embraces, and loſe your ſelves in love.</p>
+               <div type="section">
+                  <pb n="79" facs="tcp:34059:50"/>
+                  <epigraph>
+                     <q>And further by theſe my ſonne, be admoniſhed: of making many bookes there is no end, and much ſtudy is a wearineſſe of the fleſh. Let us heare the concluſion of the whole matter: Feare God, and keep his Commandements, for this is the whole duty of man. <bibl>
+                           <hi>Eccleſ. 12. verſ. 12, 13.</hi>
+                        </bibl>
+                     </q>
+                  </epigraph>
+                  <lg>
+                     <head>I.</head>
+                     <l>
+                        <hi>ALas, and is this all? come, ſpur away</hi>
+                     </l>
+                     <l>
+                        <hi>My Muſe, and let's have done before the day</hi>
+                     </l>
+                     <l>
+                        <hi>Be downe, let's leave the Helliconian ſprings,</hi>
+                     </l>
+                     <l>
+                        <hi>And ſacred Delphice, let our untuned ſtringe</hi>
+                     </l>
+                     <l>
+                        <hi>Be ſcrew'd up higher yet, untill our eares</hi>
+                     </l>
+                     <l>
+                        <hi>Can counterfeit the Muſique of the ſpheares:</hi>
+                     </l>
+                     <l>
+                        <hi>Then drown your ſelves no more (this glorious prize </hi>
+                     </l>
+                     <l>
+                        <hi>Is given free, the purchaſe cannot riſe</hi>
+                     </l>
+                     <l>
+                        <hi>From floods of flowing teares) no more my wearied eyes.</hi>
+                     </l>
+                  </lg>
+                  <pb n="80" facs="tcp:34059:51"/>
+                  <lg>
+                     <head>II.</head>
+                     <l>
+                        <hi>But does the Crowne of high immortall glory</hi>
+                     </l>
+                     <l>
+                        <hi>Arch his victorious browes, that keeps this ſtory</hi>
+                     </l>
+                     <l>
+                        <hi>True. Yea and his undefiled ſoule ſhall ſhine</hi>
+                     </l>
+                     <l>
+                        <hi>Like Stars of the firſt magnitude: divine,</hi>
+                     </l>
+                     <l>
+                        <hi>And glorious ornaments, he ſhall weare,</hi>
+                     </l>
+                     <l>
+                        <hi>And ſit inthroned above the hemiſphere</hi>
+                     </l>
+                     <l>
+                        <hi>In a garb of pureſt gold; this is the ſame</hi>
+                     </l>
+                     <l>
+                        <hi>That Heaven Will honour, and his honored name</hi>
+                     </l>
+                     <l>
+                        <hi>Shal live, and riſe up higher then the trump of fame.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>III.</head>
+                     <l>
+                        <hi>Foole that I was, becauſe the verſe was ſoone</hi>
+                     </l>
+                     <l>
+                        <hi>Read o're, I thought 'twas eaſily done;</hi>
+                     </l>
+                     <l>
+                        <hi>But thou O Lord, that mad'ſt this little span</hi>
+                     </l>
+                     <l>
+                        <hi>Of earth; muſt recollect poore uncollected man</hi>
+                     </l>
+                     <l>
+                        <hi>Keepe thy commands? O Lord, Is it not more</hi>
+                     </l>
+                     <l>
+                        <hi>Then all the World can doe? am I before Them all?</hi>
+                     </l>
+                     <l>
+                        <hi>Oh drown theſe unregenerate eyes that ſhine</hi>
+                     </l>
+                     <l>
+                        <hi>Too cleare, that I may offer to thy ſhrine</hi>
+                     </l>
+                     <l>
+                        <hi>A ſhower of teares, for every drop of blood of thine.</hi>
+                     </l>
+                  </lg>
+                  <pb n="81" facs="tcp:34059:51"/>
+                  <lg>
+                     <head>IV.</head>
+                     <l>
+                        <hi>Oh I am loſt! how ſhall poore I aſpire</hi>
+                     </l>
+                     <l>
+                        <hi>Thine Altar, Without diviner fire?</hi>
+                     </l>
+                     <l>
+                        <hi>Whoſe hallowed ſmoake may make a ſacred fume</hi>
+                     </l>
+                     <l>
+                        <hi>Before thy throne; Ah how dare I preſume</hi>
+                     </l>
+                     <l>
+                        <hi>To come? Thou ſhalt have power from above:</hi>
+                     </l>
+                     <l>
+                        <hi>Ile be thy Lord, and thou ſhalt be my Love;</hi>
+                     </l>
+                     <l>
+                        <hi>Onely confeſſe thy ſinnes, and Ile adorne</hi>
+                     </l>
+                     <l>
+                        <hi>Thy brow with beauty; teach thee how to ſcorne</hi>
+                     </l>
+                     <l>
+                        <hi>The World, and make thee fairer then the faireſt morne.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <head>V.</head>
+                     <l>
+                        <hi>Well then my honoured Lord, Ile come and trye,</hi>
+                     </l>
+                     <l>
+                        <hi>To tread the path of immortality:</hi>
+                     </l>
+                     <l>
+                        <hi>Oh that my wandring eyes could ſee the way!</hi>
+                     </l>
+                     <l>
+                        <hi>That I might travell to it every day:</hi>
+                     </l>
+                     <l>
+                        <hi>Where once arrived, our lips ſhall ſtrike up loves</hi>
+                     </l>
+                     <l>
+                        <hi>Alarmes, in the bleſt hallowed Groves.</hi>
+                     </l>
+                     <l>
+                        <hi>Doe ſoule, ſhun death, for earth is tranſitory.</hi>
+                     </l>
+                     <l>
+                        <hi>True Lord: But ſhall I (if I keep this ſtory)</hi>
+                     </l>
+                     <l>
+                        <hi>Live? I'le give thee life, wrapt in immortall glory.</hi>
+                     </l>
+                  </lg>
+                  <pb n="82" facs="tcp:34059:52"/>
+                  <lg>
+                     <head>VI.</head>
+                     <l>
+                        <hi>Too ſoone I wandred in an unknowne way,</hi>
+                     </l>
+                     <l>
+                        <hi>Till I was almoſt loſt, had not the day</hi>
+                     </l>
+                     <l>
+                        <hi>Star riſe, to guide my wandring Orbe, for all</hi>
+                     </l>
+                     <l>
+                        <hi>My power, I had ſtoop'd to the imperiall thrall</hi>
+                     </l>
+                     <l>
+                        <hi>Of ſome temptation which had cryed aloud</hi>
+                     </l>
+                     <l>
+                        <hi>To Heaven, and left me in a ſable Cloud:</hi>
+                     </l>
+                     <l>
+                        <hi>I knew not then to whom</hi> I <hi>could repaire,</hi>
+                     </l>
+                     <l>
+                        <hi>To have one houre of eaſe, but now my care</hi>
+                     </l>
+                     <l>
+                        <hi>Being paſt, I'le put a period to a well-tun'd aire.</hi>
+                     </l>
+                  </lg>
+               </div>
+            </div>
+            <div n="7" type="soliloquy">
+               <head>The laſt SOLILOQUIE, Or, <hi>The Authours Farewell.</hi>
+               </head>
+               <p>THE day breakes glorious in our darkened Orbe, tis an illuſtrious morne, cleare up my glimmering eyes; Ah me! now I ſee how much I was abuſed: I wondred (indeed) the way to Heaven ſhould be ſo hard, and that ſuch extre<g ref="char:EOLhyphen"/>mity ſhould lye in the path to immortality: alas, I was befool'd; it is not care can conquer a king<g ref="char:EOLhyphen"/>dome,
+<pb n="83" facs="tcp:34059:52"/>nor induſtry winne the Crowne of glory; it is not heavineſſe that workes holineſſe, nor ho<g ref="char:EOLhyphen"/>lineſſe that merits happineſſe; nor can the price of labour purchaſe the Palace of Love. I wonder not now why the skilfull Aſtronomer has beene miſguided by his ſtar, and why the fancies of the Learned Poets have been befool'd: alas, can in<g ref="char:EOLhyphen"/>genuity merit eternity? no, tis love, tis love, that unlocks the gate of glory!</p>
+               <p>Poore man, where is thy power now, that with thy triangle heart invelopeſt the water, buildeſt Caſtles in the aire, backeſt the windes, devoureſt the earth, and ſometimes dareſt Heaven; yet when thou commeſt to trye thy force, a feather will ſcarce wag at thy fury? alas, though thou crawleſt, thou canſt not climbe, though by thy feare thou mayeſt rule on earth, yet without Faith thou ſhalt not Raigne in Heaven; though by thy policy thou mayeſt comprehend all things, yet by thy power thou canſt command nothing.</p>
+               <p>Hence let your wing'd battlements grapple, goe vaile your tranſitory glory, let your dignity lye downe and dye, let him that has the moſt ra<g ref="char:EOLhyphen"/>rity ſtudy humility, and be like a monument cut out of marble; let the Aſtrologer put no confi<g ref="char:EOLhyphen"/>dence in Aſtronomy, nor the Naturaliſt ſtudy cu<g ref="char:EOLhyphen"/>rioſity; let the learning of the Law be turned to
+<pb n="84" facs="tcp:34059:53"/>the language of love; and yet let the ſweet lipt Orator lay downe his Rhetorick and plead no more: it is not the language of learning, nor a life of labour, nor ingenuity, nor ſidelity, nor greatneſſe, nor gallantry, nor profit, nor pleaſure, nor glory, nor honour; it is not a garment of gold, nor a lofty looke, nor the charming tongue, nor the inchanting eye, nor the faireſt face, nor the heroick heart, nor the conquering arme, that can win heaven; no, theſe doe but chaine thee to the world, and hinders the ſoule from climbing up the Ladded to his Joy.</p>
+               <p>I ſhould rather looke for heat in painted fire, then think to finde ability in the creature: I ſhould rather believe the winde comes but to fanne us with a gentle gale, when <hi>Eolus</hi> unlocks his blu<g ref="char:EOLhyphen"/>ſtering Gates, and rocks the world in a tempeſtu<g ref="char:EOLhyphen"/>ous ſtorme; or that the Cloudes doe but ſhade us from the flaming Chariot of the Sunne, when by their thundering noiſes they ſeeme to crack the Axeltrees of the World, and by their diſmall darkneſſe baniſh out the day; or that the Sea (when he furrows up his brow, and calls the dan<g ref="char:EOLhyphen"/>cing billowes up aloft) does weep to heare the ruined Mariner complaine.</p>
+               <p>Hence let the tongues of prophane Papiſts be ſilent, and ſing no more their idle Layes, leſt while
+<pb n="85" facs="tcp:34059:53"/>they truſt to the memory of their Saints they loſe the merit of their Saviour, and ſeeking Saint <hi>Pe<g ref="char:EOLhyphen"/>ters</hi> Key to open the gate, they ſtand with the foo<g ref="char:EOLhyphen"/>liſh Virgins knocking at the doore. It is not pen<g ref="char:EOLhyphen"/>ning many bookes, it is not praying with many beades, it is not a new ſlaine Sacrifice, nor the bloud of Bulls, nor the fat of Rams, nor a thouſand Rivers of Oyle, nor the Hypocrites humility, nor the worldlings beauty deckt in glory, that can ſave from the day of wrath: (Reader) Ile tell you why, becauſe they are nothing; all the Conſo<g ref="char:EOLhyphen"/>nants in the Alphabet can ſpell nothing without a Vowell: ten thouſand Cyphers ſtand for nothing without a Figure: all the Nations of the earth are but as the drop of the Bucket, and the ſmall duſt of the Ballance, (not only vanity) but lighter then vanitie; till God unite the ſinner to his Son, and makes him ſomething, he is nothing, but then God the Father calls him ſomething, and by cal<g ref="char:EOLhyphen"/>ling him ſo, he makes him ſo: But before the po<g ref="char:EOLhyphen"/>wer of the Prince, the pen of the Poet, the valour of the Souldier, the skill of an Orator is nothing, they themſelves are nothing, the beſt of them are but Cyphers, and though one Cypher is bigger then another, yet they all ſtand for nothing.</p>
+               <p>Much ſtudy indeed is a wearineſſe to the fleſh: but to keep thy Commands, that is impoſſible for fleſh and ſpirit. (Ah Lord!) the glory of nature
+<pb n="86" facs="tcp:34059:54"/>may worke the one, but the gifts of Grace muſt doe the other; the power of earth may practice the firſt, but the Prince of heaven muſt performe the laſt.</p>
+               <p>
+                  <hi>Keepe thy Commands!</hi> There is not a ſentence ſo hard among all the learned Synods of the world: it ſtrikes dead at once all the faculties of the ſoule; the poore creature here does ſtand a<g ref="char:EOLhyphen"/>mazed! Alas, it is as hard for the poore ſoule to doe this as for the earth to aſcend to the ſtars, and wander with the Spheres; and therefore like St. <hi>John,</hi> the ſoule weepes ſore when he ſees there is none found worthy in the world. But ſoule re<g ref="char:EOLhyphen"/>tire thy ſelfe from teares, advance thy ſlumbring eyes; though thou art not worthy that dwelleſt on earth, yet there is a Lambe found worthy that does inherit Heaven: nay, he is not onely worthy, but willing; hee every day approacheth the Al<g ref="char:EOLhyphen"/>tars, and mingles his blood with thy ſacrifices, and ſweetens thy prayers with his perfumes, when they aſcend before the immortall Throne. Sin<g ref="char:EOLhyphen"/>ner, thou haſt a Saviour who is able to doe the worke, if thou canſt but finde a will.</p>
+               <p>Oh Love! how tranſcendent are thy Lawes! I faine would pry into thy glorious precepts, yet dare not, leſt I am too ſoone loſt, and drowne my ſelfe in pleaſure, and never heard of ravishings; leaſt a glance of immortality do ſtrike me blinde,
+<pb facs="tcp:34059:54"/>and I ſurfet with exceſſe of joy, and die.</p>
+               <p>With showers of tears O drowne my wanton eyes: thou ſayſt I am nothing, (Ah Lord) and now I ſee I am nothing: let my down-caſt eyes pre<g ref="char:EOLhyphen"/>ſent a ſilent ſorrow; and let my heart reſemble the dusky evening aire, when the Sunne has done the day: or as poore <hi>Luna,</hi> in her eclipſed hower, deſcends her ſilver throne, and having loſt bright <hi>Sol,</hi> reſignes her glory to the ſpangled traine of wandring ſtars, mourning for the abſence of his Chariot wheeles. And ſince I am nothing, hum<g ref="char:EOLhyphen"/>ble this heart that would too ſoone be high, and like the wavering Plumes, ſwell with every breath of praiſe.</p>
+               <p>It is not reading the Bible will ſave me from Hell; nor writing a Booke will ſend me to Hea<g ref="char:EOLhyphen"/>ven: as ſome gifts of Grace cannot ſecure me, ſo all the gifts of nature will not have power to ſave me; I may die for all the firſt, and be damned notwithſtanding the laſt. Then if love be better then labour, and utility goes before ingenuity; if the loweſt faith be better then the higheſt fan<g ref="char:EOLhyphen"/>cy, and a dram of grace be heavier then a tun of gold; what need I goe round about to Heaven, when there is a nearer way? no, I have done, this is the laſt of my labours; now I will trouble the world no more with a Poem from my Pen; the way to Heaven is by low contrition, not high
+<pb facs="tcp:34059:55" rendition="simple:additions"/>ſpeculation; by private prayers, not by publique praiſes, and by the truth of fear, not by the trump of fame.</p>
+               <p>Feet, finde me out the way; I have none to di<g ref="char:EOLhyphen"/>rect me now but the Counſell of a troubled heart: yet I will try: Shine faire ſome glittering ſtar, you that enlighten your darkned journey with your borrowed glory, and in your bleſſed Orbes, con<g ref="char:EOLhyphen"/>tinually behold the day: ſay gentle guides, how lies my journey to the immortall hill? lead me and I will follow you. And O God hide all my faults in thy love, and ſhew me how to creepe through the ſtraite gate, upon my tender joints and bended knees in this my youthfull age: ſhew me my inability, that I may admire thy Majeſty, and though by others I ſhould be thought ſome<g ref="char:EOLhyphen"/>thing, yet to my ſelfe let me appeare nothing, that thou mayeſt be all in all.</p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:34059:55"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
